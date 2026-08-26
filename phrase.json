@@ -1,12 +1,14 @@
 {
-  "date": "2026-08-24",
-  "phrase": "It's not my call.",
-  "reading": "イッツ ノット マイ コール",
-  "meaning": "私が決めることじゃないんです",
-  "note": "call は「判断・決定権」。角を立てずに断るときの定番。",
+  "date": "2026-08-26",
+  "phrase": "What a relief.",
+  "reading": "ワット ア リリーフ",
+  "meaning": "ああ、よかった／ホッとした",
+  "word": "What a relief.",
+  "source": "Emily in Paris (S1)",
+  "note": "心配事が消えて安堵した瞬間に自然と口をつく一言。ため息交じりで使うのがリアル。",
   "examples": [
-    { "en": "Sorry, it's not my call — you'll need to ask my manager.", "ja": "すみません、私の一存では決められません。上長に確認してください。" },
-    { "en": "I'd love to help, but it's really not my call.", "ja": "力になりたいのですが、本当に私の権限外なんです。" },
-    { "en": "That's not my call to make.", "ja": "それは私が判断すべきことではありません。" }
+    { "en": "What a relief! I thought I'd lost my passport.", "ja": "よかった〜！パスポート失くしたと思った。" },
+    { "en": "Oh, what a relief — the test results were negative.", "ja": "ああ、ホッとした。検査結果、陰性だったよ。" },
+    { "en": "What a relief to finally be done with exams.", "ja": "やっと試験が終わってホッとしたよ。" }
   ]
 }
