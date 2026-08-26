@@ -1,12 +1,14 @@
 {
-  "date": "2026-08-24",
-  "phrase": "It's not my call.",
-  "reading": "イッツ ノット マイ コール",
-  "meaning": "私が決めることじゃないんです",
-  "note": "call は「判断・決定権」。角を立てずに断るときの定番。",
+  "date": "2026-08-26",
+  "phrase": "You're the heir to all this?",
+  "reading": "ユア ザ エア トゥ オール ディス？",
+  "meaning": "え、これ全部あなたが継ぐの？",
+  "word": "heir",
+  "source": "Emily in Paris（シーズン1）",
+  "note": "heir は h が無音（airと同じ発音）。相続人・後継者を指す、驚きを込めた言い方。",
   "examples": [
-    { "en": "Sorry, it's not my call — you'll need to ask my manager.", "ja": "すみません、私の一存では決められません。上長に確認してください。" },
-    { "en": "I'd love to help, but it's really not my call.", "ja": "力になりたいのですが、本当に私の権限外なんです。" },
-    { "en": "That's not my call to make.", "ja": "それは私が判断すべきことではありません。" }
+    { "en": "She's the sole heir to her family's fortune.", "ja": "彼女は一族の財産の唯一の相続人だ。" },
+    { "en": "He never wanted to be his father's heir.", "ja": "彼は父の後継者になりたくなかった。" },
+    { "en": "Being the heir comes with a lot of pressure.", "ja": "後継者であることには大きなプレッシャーが伴う。" }
   ]
 }
