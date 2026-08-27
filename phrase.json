@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-26",
-  "phrase": "What a relief.",
-  "reading": "ワット ア リリーフ",
-  "meaning": "ああ、よかった／ホッとした",
-  "word": "What a relief.",
+  "date": "2026-08-27",
+  "phrase": "I can't be bothered right now.",
+  "reading": "アイ キャント ビー ボザード ライト ナウ",
+  "meaning": "今はやる気になれない、面倒くさい",
+  "word": "bother",
   "source": "Emily in Paris (S1)",
-  "note": "心配事が消えて安堵した瞬間に自然と口をつく一言。ため息交じりで使うのがリアル。",
+  "note": "「気にしない」「面倒でやる気が起きない」の両方に使える口語フレーズ。",
   "examples": [
-    { "en": "What a relief! I thought I'd lost my passport.", "ja": "よかった〜！パスポート失くしたと思った。" },
-    { "en": "Oh, what a relief — the test results were negative.", "ja": "ああ、ホッとした。検査結果、陰性だったよ。" },
-    { "en": "What a relief to finally be done with exams.", "ja": "やっと試験が終わってホッとしたよ。" }
+    { "en": "I can't be bothered to cook tonight.", "ja": "今夜は料理する気になれない。" },
+    { "en": "Don't let it bother you so much.", "ja": "そんなに気にしないで。" },
+    { "en": "It really bothers me when people are late.", "ja": "人が遅刻すると本当にイライラする。" }
   ]
 }
