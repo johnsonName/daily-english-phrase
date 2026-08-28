@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-27",
-  "phrase": "I can't be bothered right now.",
-  "reading": "アイ キャント ビー ボザード ライト ナウ",
-  "meaning": "今はやる気になれない、面倒くさい",
-  "word": "bother",
-  "source": "Emily in Paris (S1)",
-  "note": "「気にしない」「面倒でやる気が起きない」の両方に使える口語フレーズ。",
+  "date": "2026-08-28",
+  "phrase": "Are you working here illegally?",
+  "reading": "アー ユー ワーキング ヒア イリーガリー",
+  "meaning": "ここで違法に働いているの？",
+  "word": "illegally",
+  "source": "Emily in Paris 1",
+  "note": "就労ビザなど法的な立場を疑う場面で使われる。ややストレートな聞き方。",
   "examples": [
-    { "en": "I can't be bothered to cook tonight.", "ja": "今夜は料理する気になれない。" },
-    { "en": "Don't let it bother you so much.", "ja": "そんなに気にしないで。" },
-    { "en": "It really bothers me when people are late.", "ja": "人が遅刻すると本当にイライラする。" }
+    { "en": "You can't work here illegally forever.", "ja": "ここでずっと違法に働き続けることはできないよ。" },
+    { "en": "She's been living here illegally for years.", "ja": "彼女は何年も違法にここで暮らしている。" },
+    { "en": "He downloaded the movie illegally.", "ja": "彼はその映画を違法にダウンロードした。" }
   ]
 }
