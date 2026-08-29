@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-28",
-  "phrase": "Are you working here illegally?",
-  "reading": "アー ユー ワーキング ヒア イリーガリー",
-  "meaning": "ここで違法に働いているの？",
-  "word": "illegally",
+  "date": "2026-08-29",
+  "phrase": "This is all going to waste.",
+  "reading": "ディス イズ オール ゴーイング トゥ ウェイスト",
+  "meaning": "これ全部無駄になっちゃう。",
+  "word": "going to waste",
   "source": "Emily in Paris 1",
-  "note": "就労ビザなど法的な立場を疑う場面で使われる。ややストレートな聞き方。",
+  "note": "食べ物や才能など、使われず無駄になってしまう状況を表す口語的な言い方。もったいない気持ちを込めて。",
   "examples": [
-    { "en": "You can't work here illegally forever.", "ja": "ここでずっと違法に働き続けることはできないよ。" },
-    { "en": "She's been living here illegally for years.", "ja": "彼女は何年も違法にここで暮らしている。" },
-    { "en": "He downloaded the movie illegally.", "ja": "彼はその映画を違法にダウンロードした。" }
+    { "en": "All that food is going to waste.", "ja": "あの食べ物、全部無駄になっちゃう。" },
+    { "en": "Don't let your talent go to waste.", "ja": "才能を無駄にしないで。" },
+    { "en": "I hate seeing good ingredients go to waste.", "ja": "いい食材が無駄になるのを見るのが嫌だ。" }
   ]
 }
