@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-30",
-  "phrase": "Are you ready to commit to me?",
-  "reading": "アー・ユー・レディ・トゥ・コミット・トゥ・ミー？",
-  "meaning": "私に本気で向き合う準備はできてる？",
-  "word": "commit to ~",
+  "date": "2026-08-31",
+  "phrase": "No way, are you serious right now?",
+  "reading": "ノー・ウェイ、アー・ユー・シリアス・ライト・ナウ？",
+  "meaning": "まさか、今マジで言ってるの？",
+  "word": "No way.",
   "source": "Emily in Paris",
-  "note": "恋愛や仕事で、本気で向き合う・約束する覚悟があるか尋ねるときに使うフレーズ。",
+  "note": "信じられない驚きや強い拒否を表すカジュアルな一言。とっさに口をつく定番の相槌。",
   "examples": [
-    { "en": "I'm ready to commit to this relationship.", "ja": "この関係に本気で向き合う準備ができてる。" },
-    { "en": "She finally committed to the new job offer.", "ja": "彼女はついに新しい仕事のオファーを受け入れる決意をした。" },
-    { "en": "Just commit to the plan and see it through.", "ja": "とにかく計画に本気で取り組んで、最後までやり遂げて。" }
+    { "en": "No way, are you serious right now?", "ja": "まさか、今本当に言ってるの？" },
+    { "en": "No way! I can't believe you're here.", "ja": "うそでしょ！ここにいるなんて信じられない。" },
+    { "en": "No way am I doing that again.", "ja": "絶対にもう一度なんてやらない。" }
   ]
 }
