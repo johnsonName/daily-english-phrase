@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-31",
-  "phrase": "No way, are you serious right now?",
-  "reading": "ノー・ウェイ、アー・ユー・シリアス・ライト・ナウ？",
-  "meaning": "まさか、今マジで言ってるの？",
-  "word": "No way.",
+  "date": "2026-09-01",
+  "phrase": "If you say so, but I doubt it.",
+  "reading": "イフ・ユー・セイ・ソー、バット・アイ・ダウト・イット",
+  "meaning": "あなたがそう言うなら（でも本当かな）",
+  "word": "If you say so.",
   "source": "Emily in Paris",
-  "note": "信じられない驚きや強い拒否を表すカジュアルな一言。とっさに口をつく定番の相槌。",
+  "note": "半信半疑や皮肉を込めて、相手の言い分を一旦受け流すときに使うフレーズ。",
   "examples": [
-    { "en": "No way, are you serious right now?", "ja": "まさか、今本当に言ってるの？" },
-    { "en": "No way! I can't believe you're here.", "ja": "うそでしょ！ここにいるなんて信じられない。" },
-    { "en": "No way am I doing that again.", "ja": "絶対にもう一度なんてやらない。" }
+    { "en": "If you say so, but I doubt it.", "ja": "そう言うならそうだけど、疑わしいな。" },
+    { "en": "If you say so, I guess we'll see.", "ja": "そう言うなら、まあ様子を見ましょう。" },
+    { "en": "If you say so, I'm not convinced.", "ja": "そう言うなら、でも納得はしてないよ。" }
   ]
 }
