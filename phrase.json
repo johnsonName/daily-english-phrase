@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-01",
-  "phrase": "If you say so, but I doubt it.",
-  "reading": "イフ・ユー・セイ・ソー、バット・アイ・ダウト・イット",
-  "meaning": "あなたがそう言うなら（でも本当かな）",
-  "word": "If you say so.",
-  "source": "Emily in Paris",
-  "note": "半信半疑や皮肉を込めて、相手の言い分を一旦受け流すときに使うフレーズ。",
+  "date": "2026-09-02",
+  "phrase": "Things got pretty tense in there.",
+  "reading": "シングス・ガット・プリティ・テンス・イン・ゼア",
+  "meaning": "そこはかなりピリピリした空気だった",
+  "word": "tense",
+  "source": "Emily in Paris 1",
+  "note": "緊迫した空気や苛立ちを表すカジュアルな一言。人間関係や仕事の場面でよく使う。",
   "examples": [
-    { "en": "If you say so, but I doubt it.", "ja": "そう言うならそうだけど、疑わしいな。" },
-    { "en": "If you say so, I guess we'll see.", "ja": "そう言うなら、まあ様子を見ましょう。" },
-    { "en": "If you say so, I'm not convinced.", "ja": "そう言うなら、でも納得はしてないよ。" }
+    { "en": "Things got pretty tense in there.", "ja": "そこはかなりピリピリした空気だった。" },
+    { "en": "She sounded a little tense on the phone.", "ja": "電話越しに彼女は少し緊張しているようだった。" },
+    { "en": "Why are you so tense today?", "ja": "今日はどうしてそんなにピリピリしてるの？" }
   ]
 }
