@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-02",
-  "phrase": "Things got pretty tense in there.",
-  "reading": "シングス・ガット・プリティ・テンス・イン・ゼア",
-  "meaning": "そこはかなりピリピリした空気だった",
-  "word": "tense",
-  "source": "Emily in Paris 1",
-  "note": "緊迫した空気や苛立ちを表すカジュアルな一言。人間関係や仕事の場面でよく使う。",
+  "date": "2026-09-03",
+  "phrase": "You have a point there.",
+  "reading": "ユー ハブ ア ポイント ゼア",
+  "meaning": "それは一理あるね",
+  "word": "You have a point there.",
+  "source": "Emily in Paris",
+  "note": "相手の意見に部分的に同意する時のカジュアルな相槌。議論や雑談でよく使う。",
   "examples": [
-    { "en": "Things got pretty tense in there.", "ja": "そこはかなりピリピリした空気だった。" },
-    { "en": "She sounded a little tense on the phone.", "ja": "電話越しに彼女は少し緊張しているようだった。" },
-    { "en": "Why are you so tense today?", "ja": "今日はどうしてそんなにピリピリしてるの？" }
+    { "en": "Okay, you have a point there.", "ja": "うん、それは一理あるね。" },
+    { "en": "You have a point there, but I still disagree.", "ja": "一理あるけど、それでも私は違うと思う。" },
+    { "en": "Hmm, you have a point there actually.", "ja": "うーん、確かにそれは一理あるね。" }
   ]
 }
