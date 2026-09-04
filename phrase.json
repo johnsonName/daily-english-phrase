@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-03",
-  "phrase": "You have a point there.",
-  "reading": "ユー ハブ ア ポイント ゼア",
-  "meaning": "それは一理あるね",
-  "word": "You have a point there.",
-  "source": "Emily in Paris",
-  "note": "相手の意見に部分的に同意する時のカジュアルな相槌。議論や雑談でよく使う。",
+  "date": "2026-09-04",
+  "phrase": "I just assumed you already knew.",
+  "reading": "アイ ジャスト アシューム ユー オールレディ ニュー",
+  "meaning": "てっきりもう知ってると思ってた",
+  "word": "assume",
+  "source": "Emily in Paris 1",
+  "note": "根拠なく「〜だろう」と思い込む時に使う。誤解や勘違いが判明する場面でよく出てくる。",
   "examples": [
-    { "en": "Okay, you have a point there.", "ja": "うん、それは一理あるね。" },
-    { "en": "You have a point there, but I still disagree.", "ja": "一理あるけど、それでも私は違うと思う。" },
-    { "en": "Hmm, you have a point there actually.", "ja": "うーん、確かにそれは一理あるね。" }
+    { "en": "Don't just assume, ask me first.", "ja": "勝手に決めつけないで、まず聞いてよ。" },
+    { "en": "I assumed you'd be there.", "ja": "あなたも来ると思ってた。" },
+    { "en": "Never assume it'll be easy.", "ja": "簡単だなんて思い込まないで。" }
   ]
 }
