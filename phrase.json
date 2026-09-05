@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-04",
-  "phrase": "I just assumed you already knew.",
-  "reading": "アイ ジャスト アシューム ユー オールレディ ニュー",
-  "meaning": "てっきりもう知ってると思ってた",
-  "word": "assume",
-  "source": "Emily in Paris 1",
-  "note": "根拠なく「〜だろう」と思い込む時に使う。誤解や勘違いが判明する場面でよく出てくる。",
+  "date": "2026-09-05",
+  "phrase": "Are you sure you want to do this?",
+  "reading": "アー・ユー・シュア・ユー・ウォント・トゥ・ドゥ・ディス",
+  "meaning": "本当にそれをするつもりなの？",
+  "word": "are you sure...?",
+  "source": "Emily in Paris",
+  "note": "相手の大胆な決断に驚きつつ、本気度を確かめたい時に使う定番フレーズ。",
   "examples": [
-    { "en": "Don't just assume, ask me first.", "ja": "勝手に決めつけないで、まず聞いてよ。" },
-    { "en": "I assumed you'd be there.", "ja": "あなたも来ると思ってた。" },
-    { "en": "Never assume it'll be easy.", "ja": "簡単だなんて思い込まないで。" }
+    { "en": "Are you sure you want to do this?", "ja": "本当にそれをするつもりなの？" },
+    { "en": "Are you sure about that decision?", "ja": "その決断、本当に大丈夫なの？" },
+    { "en": "Are you sure you're okay with this?", "ja": "これで本当にいいの？" }
   ]
 }
