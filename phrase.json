@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-06",
-  "phrase": "I remain unconvinced, to be honest.",
-  "reading": "アイ・リメイン・アンコンヴィンスト、トゥ・ビー・オネスト",
-  "meaning": "正直言うと、まだ納得できていません。",
-  "word": "remain",
+  "date": "2026-09-07",
+  "phrase": "I think the feeling's mutual.",
+  "reading": "アイ・シンク・ザ・フィーリングズ・ミューチュアル",
+  "meaning": "その気持ち、お互い様だと思う。",
+  "word": "mutual",
   "source": "Emily in Paris",
-  "note": "反論や懐疑を上品に伝える言い回し。議論やビジネスの場で便利。",
+  "note": "恋愛や好意が「両想い」であることをさりげなく伝える、控えめで大人な言い回し。",
   "examples": [
-    { "en": "I remain unconvinced, to be honest.", "ja": "正直言うと、まだ納得できていません。" },
-    { "en": "She remains calm even under pressure.", "ja": "彼女はプレッシャーの中でも冷静さを保っている。" },
-    { "en": "We remain committed to this project.", "ja": "私たちはこのプロジェクトに引き続き全力を注いでいます。" }
+    { "en": "I think the feeling's mutual.", "ja": "その気持ち、お互い様だと思う。" },
+    { "en": "We have a lot of mutual friends.", "ja": "私たちには共通の友人がたくさんいる。" },
+    { "en": "It was a mutual decision to end things.", "ja": "それは別れることでのお互いの決断だった。" }
   ]
 }
