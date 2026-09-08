@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-07",
-  "phrase": "I think the feeling's mutual.",
-  "reading": "アイ・シンク・ザ・フィーリングズ・ミューチュアル",
-  "meaning": "その気持ち、お互い様だと思う。",
-  "word": "mutual",
+  "date": "2026-09-08",
+  "phrase": "We practically invented this trend.",
+  "reading": "ウィー・プラクティカリー・インヴェンティッド・ディス・トレンド",
+  "meaning": "私たちがこのトレンドを作ったようなものよ。",
+  "word": "invent",
   "source": "Emily in Paris",
-  "note": "恋愛や好意が「両想い」であることをさりげなく伝える、控えめで大人な言い回し。",
+  "note": "自慢げに「これ、私たちが生み出したようなもの」と冗談っぽく言うときの言い回し。",
   "examples": [
-    { "en": "I think the feeling's mutual.", "ja": "その気持ち、お互い様だと思う。" },
-    { "en": "We have a lot of mutual friends.", "ja": "私たちには共通の友人がたくさんいる。" },
-    { "en": "It was a mutual decision to end things.", "ja": "それは別れることでのお互いの決断だった。" }
+    { "en": "We practically invented this whole concept.", "ja": "私たちがこのコンセプトを生み出したようなものよ。" },
+    { "en": "Did she really invent that recipe herself?", "ja": "彼女は本当にそのレシピを自分で考案したの？" },
+    { "en": "They invented a new way to market fashion.", "ja": "彼らはファッションの新しい売り方を編み出した。" }
   ]
 }
