@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-08",
-  "phrase": "We practically invented this trend.",
-  "reading": "ウィー・プラクティカリー・インヴェンティッド・ディス・トレンド",
-  "meaning": "私たちがこのトレンドを作ったようなものよ。",
-  "word": "invent",
-  "source": "Emily in Paris",
-  "note": "自慢げに「これ、私たちが生み出したようなもの」と冗談っぽく言うときの言い回し。",
+  "date": "2026-09-09",
+  "phrase": "Let's tuck this secret away for now.",
+  "reading": "レッツ・タック・ディス・シークレット・アウェイ・フォー・ナウ",
+  "meaning": "この秘密は今はしまっておこう。",
+  "word": "tuck",
+  "source": "Gossip Girl",
+  "note": "物や秘密をこっそりしまう・隠すニュアンス。噂と秘密が渦巻く世界観にぴったりの一言。",
   "examples": [
-    { "en": "We practically invented this whole concept.", "ja": "私たちがこのコンセプトを生み出したようなものよ。" },
-    { "en": "Did she really invent that recipe herself?", "ja": "彼女は本当にそのレシピを自分で考案したの？" },
-    { "en": "They invented a new way to market fashion.", "ja": "彼らはファッションの新しい売り方を編み出した。" }
+    { "en": "Tuck your phone away before she notices.", "ja": "彼女に気づかれる前にスマホをしまって。" },
+    { "en": "He tucked the note into her locker quietly.", "ja": "彼はその手紙をそっと彼女のロッカーに入れた。" },
+    { "en": "Just tuck it under the pillow and forget it.", "ja": "それは枕の下にしまって忘れちゃえば。" }
   ]
 }
