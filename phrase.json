@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-09",
-  "phrase": "Let's tuck this secret away for now.",
-  "reading": "レッツ・タック・ディス・シークレット・アウェイ・フォー・ナウ",
-  "meaning": "この秘密は今はしまっておこう。",
-  "word": "tuck",
+  "date": "2026-09-10",
+  "phrase": "You're awfully quiet tonight.",
+  "reading": "ユーアー・アウフリー・クワイエット・トゥナイト",
+  "meaning": "今夜はやけに静かね。",
+  "word": "awfully",
   "source": "Gossip Girl",
-  "note": "物や秘密をこっそりしまう・隠すニュアンス。噂と秘密が渦巻く世界観にぴったりの一言。",
+  "note": "「とても」を意味する副詞だが、皮肉っぽく「やけに」「妙に」というニュアンスで使われることが多い。",
   "examples": [
-    { "en": "Tuck your phone away before she notices.", "ja": "彼女に気づかれる前にスマホをしまって。" },
-    { "en": "He tucked the note into her locker quietly.", "ja": "彼はその手紙をそっと彼女のロッカーに入れた。" },
-    { "en": "Just tuck it under the pillow and forget it.", "ja": "それは枕の下にしまって忘れちゃえば。" }
+    { "en": "That's awfully generous of you.", "ja": "それ、ずいぶん気前がいいのね。" },
+    { "en": "You look awfully pleased with yourself.", "ja": "ずいぶん得意げな顔してるじゃない。" },
+    { "en": "It's awfully quiet around here.", "ja": "ここ、やけに静かだね。" }
   ]
 }
