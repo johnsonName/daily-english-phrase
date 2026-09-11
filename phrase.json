@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-10",
-  "phrase": "You're awfully quiet tonight.",
-  "reading": "ユーアー・アウフリー・クワイエット・トゥナイト",
-  "meaning": "今夜はやけに静かね。",
-  "word": "awfully",
-  "source": "Gossip Girl",
-  "note": "「とても」を意味する副詞だが、皮肉っぽく「やけに」「妙に」というニュアンスで使われることが多い。",
+  "date": "2026-09-11",
+  "phrase": "Would you consider staying in Paris?",
+  "reading": "ウッド・ユー・コンシダー・ステイング・イン・パリス？",
+  "meaning": "パリに残ること、考えてみない？",
+  "word": "consider",
+  "source": "Emily in Paris",
+  "note": "「考慮する」の意味。相手に前向きな提案をするときの丁寧な言い方。",
   "examples": [
-    { "en": "That's awfully generous of you.", "ja": "それ、ずいぶん気前がいいのね。" },
-    { "en": "You look awfully pleased with yourself.", "ja": "ずいぶん得意げな顔してるじゃない。" },
-    { "en": "It's awfully quiet around here.", "ja": "ここ、やけに静かだね。" }
+    { "en": "Have you considered a career in fashion?", "ja": "ファッション業界でのキャリアを考えたことある？" },
+    { "en": "I'll consider it and get back to you.", "ja": "考えてから、また連絡するね。" },
+    { "en": "We should really consider all our options.", "ja": "選択肢は全部ちゃんと考えるべきだよね。" }
   ]
 }
