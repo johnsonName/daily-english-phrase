@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-11",
-  "phrase": "Would you consider staying in Paris?",
-  "reading": "ウッド・ユー・コンシダー・ステイング・イン・パリス？",
-  "meaning": "パリに残ること、考えてみない？",
-  "word": "consider",
+  "date": "2026-09-12",
+  "phrase": "Likewise, the pleasure's all mine.",
+  "reading": "ライクワイズ、ザ・プレジャーズ・オール・マイン",
+  "meaning": "こちらこそ、光栄です。",
+  "word": "likewise",
   "source": "Emily in Paris",
-  "note": "「考慮する」の意味。相手に前向きな提案をするときの丁寧な言い方。",
+  "note": "「同じく」という返し言葉。褒め言葉やあいさつへの返答として自然に使える。",
   "examples": [
-    { "en": "Have you considered a career in fashion?", "ja": "ファッション業界でのキャリアを考えたことある？" },
-    { "en": "I'll consider it and get back to you.", "ja": "考えてから、また連絡するね。" },
-    { "en": "We should really consider all our options.", "ja": "選択肢は全部ちゃんと考えるべきだよね。" }
+    { "en": "Likewise, I've always admired your work.", "ja": "同じく、あなたの仕事にはずっと感心していました。" },
+    { "en": "\"Nice to meet you.\" \"Likewise.\"", "ja": "「はじめまして」「こちらこそ」" },
+    { "en": "I feel likewise about the project.", "ja": "私もそのプロジェクトについて同じように感じています。" }
   ]
 }
