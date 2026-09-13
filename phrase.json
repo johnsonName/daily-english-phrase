@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-12",
-  "phrase": "Likewise, the pleasure's all mine.",
-  "reading": "ライクワイズ、ザ・プレジャーズ・オール・マイン",
-  "meaning": "こちらこそ、光栄です。",
-  "word": "likewise",
+  "date": "2026-09-13",
+  "phrase": "Make yourself comfortable.",
+  "reading": "メイク・ユアセルフ・コンフォタブル",
+  "meaning": "楽にしてね、くつろいで。",
+  "word": "comfortable",
   "source": "Emily in Paris",
-  "note": "「同じく」という返し言葉。褒め言葉やあいさつへの返答として自然に使える。",
+  "note": "人を部屋に招いたときの定番フレーズ。堅苦しくせず、くつろいでほしい気持ちを伝える。",
   "examples": [
-    { "en": "Likewise, I've always admired your work.", "ja": "同じく、あなたの仕事にはずっと感心していました。" },
-    { "en": "\"Nice to meet you.\" \"Likewise.\"", "ja": "「はじめまして」「こちらこそ」" },
-    { "en": "I feel likewise about the project.", "ja": "私もそのプロジェクトについて同じように感じています。" }
+    { "en": "Make yourself comfortable while I get us some wine.", "ja": "くつろいでてね、ワインを取ってくるから。" },
+    { "en": "I want you to feel comfortable here.", "ja": "ここでは気楽にしてほしいの。" },
+    { "en": "These shoes are so comfortable.", "ja": "この靴、すごく履き心地がいいの。" }
   ]
 }
