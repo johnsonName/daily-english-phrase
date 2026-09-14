@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-13",
-  "phrase": "Make yourself comfortable.",
-  "reading": "メイク・ユアセルフ・コンフォタブル",
-  "meaning": "楽にしてね、くつろいで。",
-  "word": "comfortable",
+  "date": "2026-09-14",
+  "phrase": "Otherwise, what's the point?",
+  "reading": "アザワイズ、ワッツ・ザ・ポイント？",
+  "meaning": "そうじゃなければ、意味なくない？",
+  "word": "otherwise",
   "source": "Emily in Paris",
-  "note": "人を部屋に招いたときの定番フレーズ。堅苦しくせず、くつろいでほしい気持ちを伝える。",
+  "note": "理由を付け加えるときの決め台詞。軽い皮肉や念押しのニュアンスで伝わる。",
   "examples": [
-    { "en": "Make yourself comfortable while I get us some wine.", "ja": "くつろいでてね、ワインを取ってくるから。" },
-    { "en": "I want you to feel comfortable here.", "ja": "ここでは気楽にしてほしいの。" },
-    { "en": "These shoes are so comfortable.", "ja": "この靴、すごく履き心地がいいの。" }
+    { "en": "You'd better hurry, otherwise you'll miss the train.", "ja": "急がないと、電車に乗り遅れるよ。" },
+    { "en": "I need this by Friday, otherwise it's useless.", "ja": "金曜までに必要なの、そうじゃないと意味がないから。" },
+    { "en": "Wear a coat, otherwise you'll freeze out there.", "ja": "コートを着てね、じゃないと外で凍えるよ。" }
   ]
 }
