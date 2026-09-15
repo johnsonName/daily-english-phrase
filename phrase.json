@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-14",
-  "phrase": "Otherwise, what's the point?",
-  "reading": "アザワイズ、ワッツ・ザ・ポイント？",
-  "meaning": "そうじゃなければ、意味なくない？",
-  "word": "otherwise",
+  "date": "2026-09-15",
+  "phrase": "Let's just enjoy the rest of the night.",
+  "reading": "レッツ・ジャスト・エンジョイ・ザ・レスト・オブ・ザ・ナイト",
+  "meaning": "残りの夜を楽しもうよ",
+  "word": "the rest of",
   "source": "Emily in Paris",
-  "note": "理由を付け加えるときの決め台詞。軽い皮肉や念押しのニュアンスで伝わる。",
+  "note": "細かいことは置いといて、今ある時間を楽しもうという時に使う自然な締めの一言。",
   "examples": [
-    { "en": "You'd better hurry, otherwise you'll miss the train.", "ja": "急がないと、電車に乗り遅れるよ。" },
-    { "en": "I need this by Friday, otherwise it's useless.", "ja": "金曜までに必要なの、そうじゃないと意味がないから。" },
-    { "en": "Wear a coat, otherwise you'll freeze out there.", "ja": "コートを着てね、じゃないと外で凍えるよ。" }
+    { "en": "We spent the rest of the afternoon just talking.", "ja": "残りの午後はただ話して過ごした。" },
+    { "en": "You can have the rest of my fries.", "ja": "残りのポテト、あげるよ。" },
+    { "en": "I'll explain the rest of it later.", "ja": "残りは後で説明するね。" }
   ]
 }
