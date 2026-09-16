@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-15",
-  "phrase": "Let's just enjoy the rest of the night.",
-  "reading": "レッツ・ジャスト・エンジョイ・ザ・レスト・オブ・ザ・ナイト",
-  "meaning": "残りの夜を楽しもうよ",
-  "word": "the rest of",
+  "date": "2026-09-16",
+  "phrase": "You'll get used to it.",
+  "reading": "ユール・ゲット・ユーズド・トゥ・イット",
+  "meaning": "そのうち慣れるよ",
+  "word": "get used to ~",
   "source": "Emily in Paris",
-  "note": "細かいことは置いといて、今ある時間を楽しもうという時に使う自然な締めの一言。",
+  "note": "新しい環境や辛い状況に戸惑う相手を励ます時によく使う自然な一言。",
   "examples": [
-    { "en": "We spent the rest of the afternoon just talking.", "ja": "残りの午後はただ話して過ごした。" },
-    { "en": "You can have the rest of my fries.", "ja": "残りのポテト、あげるよ。" },
-    { "en": "I'll explain the rest of it later.", "ja": "残りは後で説明するね。" }
+    { "en": "Don't worry, you'll get used to it.", "ja": "心配しないで、そのうち慣れるから。" },
+    { "en": "It's weird at first, but you get used to it.", "ja": "最初は変な感じがするけど、慣れてくるよ。" },
+    { "en": "I'm slowly getting used to the new schedule.", "ja": "新しいスケジュールに少しずつ慣れてきた。" }
   ]
 }
