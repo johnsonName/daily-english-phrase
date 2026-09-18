@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-17",
-  "phrase": "Is this some kind of revenge?",
-  "reading": "イズ ディス サム カインド オブ リヴェンジ？",
-  "meaning": "これって一種の仕返しなの？",
-  "word": "revenge",
-  "source": "Emily in Paris",
-  "note": "皮肉っぽく問い詰めるときに使う言い方。ケンカや駆け引きのシーンで使える。",
+  "date": "2026-09-18",
+  "phrase": "What did you expect, exactly?",
+  "reading": "ワット ディド ユー イクスペクト、イグザクトリー？",
+  "meaning": "一体何を期待してたの？",
+  "word": "expect",
+  "source": "Gossip Girl",
+  "note": "相手の思い込みや期待を皮肉っぽく問い返すときの鋭いひとこと。",
   "examples": [
-    { "en": "Is this your idea of revenge?", "ja": "これがあなたの仕返しってわけ？" },
-    { "en": "I'm not looking for revenge.", "ja": "仕返しがしたいわけじゃないの。" },
-    { "en": "She wanted sweet revenge.", "ja": "彼女は甘い仕返しを望んでいた。" }
+    { "en": "What did you expect, exactly?", "ja": "一体何を期待してたの？" },
+    { "en": "I expect nothing less from you.", "ja": "あなたならそれくらいやってくれると思ってた。" },
+    { "en": "Don't expect an apology from me.", "ja": "私から謝罪を期待しないで。" }
   ]
 }
