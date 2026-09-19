@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-18",
-  "phrase": "What did you expect, exactly?",
-  "reading": "ワット ディド ユー イクスペクト、イグザクトリー？",
-  "meaning": "一体何を期待してたの？",
-  "word": "expect",
-  "source": "Gossip Girl",
-  "note": "相手の思い込みや期待を皮肉っぽく問い返すときの鋭いひとこと。",
+  "date": "2026-09-19",
+  "phrase": "I've always admired your confidence.",
+  "reading": "アイヴ オールウェイズ アドマイアード ユア コンフィデンス",
+  "meaning": "ずっとあなたの自信に感心してたの。",
+  "word": "admire",
+  "source": "Emily in Paris",
+  "note": "面と向かって相手の魅力や強みを素直に褒めるときに使う、誠実な響きのフレーズ。",
   "examples": [
-    { "en": "What did you expect, exactly?", "ja": "一体何を期待してたの？" },
-    { "en": "I expect nothing less from you.", "ja": "あなたならそれくらいやってくれると思ってた。" },
-    { "en": "Don't expect an apology from me.", "ja": "私から謝罪を期待しないで。" }
+    { "en": "I've always admired your confidence.", "ja": "ずっとあなたの自信に感心してたの。" },
+    { "en": "I admire how honest you are.", "ja": "あなたの正直さを尊敬してる。" },
+    { "en": "She admires her mentor a lot.", "ja": "彼女はメンターをとても尊敬している。" }
   ]
 }
