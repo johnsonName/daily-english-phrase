@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-19",
-  "phrase": "I've always admired your confidence.",
-  "reading": "アイヴ オールウェイズ アドマイアード ユア コンフィデンス",
-  "meaning": "ずっとあなたの自信に感心してたの。",
-  "word": "admire",
+  "date": "2026-09-20",
+  "phrase": "You look so sophisticated tonight.",
+  "reading": "ユー ルック ソー ソフィスティケイテッド トゥナイト",
+  "meaning": "今夜はとても洗練されて見えるね。",
+  "word": "sophisticated",
   "source": "Emily in Paris",
-  "note": "面と向かって相手の魅力や強みを素直に褒めるときに使う、誠実な響きのフレーズ。",
+  "note": "パリらしい洗練さを褒める時の定番。装いや所作、雰囲気などにも使える万能な褒め言葉。",
   "examples": [
-    { "en": "I've always admired your confidence.", "ja": "ずっとあなたの自信に感心してたの。" },
-    { "en": "I admire how honest you are.", "ja": "あなたの正直さを尊敬してる。" },
-    { "en": "She admires her mentor a lot.", "ja": "彼女はメンターをとても尊敬している。" }
+    { "en": "She has a very sophisticated taste in fashion.", "ja": "彼女はとても洗練されたファッションセンスを持っている。" },
+    { "en": "This restaurant has such a sophisticated atmosphere.", "ja": "このレストランはとても洗練された雰囲気だ。" },
+    { "en": "His sophisticated manner impressed everyone there.", "ja": "彼の洗練された振る舞いはそこにいた全員を感心させた。" }
   ]
 }
