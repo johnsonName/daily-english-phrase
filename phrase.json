@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-20",
-  "phrase": "You look so sophisticated tonight.",
-  "reading": "ユー ルック ソー ソフィスティケイテッド トゥナイト",
-  "meaning": "今夜はとても洗練されて見えるね。",
-  "word": "sophisticated",
+  "date": "2026-09-21",
+  "phrase": "I don't think Sylvie would approve.",
+  "reading": "アイ ドント シンク シルヴィー ウド アプルーヴ",
+  "meaning": "シルヴィーは絶対に許してくれないと思う。",
+  "word": "approve",
   "source": "Emily in Paris",
-  "note": "パリらしい洗練さを褒める時の定番。装いや所作、雰囲気などにも使える万能な褒め言葉。",
+  "note": "誰かの反応を予想して使う一言。上司や気難しい人物を主語にすると効果的。",
   "examples": [
-    { "en": "She has a very sophisticated taste in fashion.", "ja": "彼女はとても洗練されたファッションセンスを持っている。" },
-    { "en": "This restaurant has such a sophisticated atmosphere.", "ja": "このレストランはとても洗練された雰囲気だ。" },
-    { "en": "His sophisticated manner impressed everyone there.", "ja": "彼の洗練された振る舞いはそこにいた全員を感心させた。" }
+    { "en": "My parents would never approve of this.", "ja": "両親は絶対にこれを許さないだろう。" },
+    { "en": "She's waiting for her boss to approve the budget.", "ja": "彼女は上司が予算を承認するのを待っている。" },
+    { "en": "He nodded, as if to approve of the plan.", "ja": "彼はその計画を認めるかのようにうなずいた。" }
   ]
 }
