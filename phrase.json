@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-21",
-  "phrase": "I don't think Sylvie would approve.",
-  "reading": "アイ ドント シンク シルヴィー ウド アプルーヴ",
-  "meaning": "シルヴィーは絶対に許してくれないと思う。",
-  "word": "approve",
+  "date": "2026-09-22",
+  "phrase": "I won't allow this to slide.",
+  "reading": "アイ ウォント アラウ ディス トゥ スライド",
+  "meaning": "これを見過ごすつもりはない。",
+  "word": "allow",
   "source": "Emily in Paris",
-  "note": "誰かの反応を予想して使う一言。上司や気難しい人物を主語にすると効果的。",
+  "note": "何かを許さない、見過ごさないという強い意志を示すセリフ。強気なキャラの一言に。",
   "examples": [
-    { "en": "My parents would never approve of this.", "ja": "両親は絶対にこれを許さないだろう。" },
-    { "en": "She's waiting for her boss to approve the budget.", "ja": "彼女は上司が予算を承認するのを待っている。" },
-    { "en": "He nodded, as if to approve of the plan.", "ja": "彼はその計画を認めるかのようにうなずいた。" }
+    { "en": "My boss won't allow any excuses.", "ja": "私の上司は言い訳を一切許さない。" },
+    { "en": "Please allow me a moment to think.", "ja": "少し考える時間をください。" },
+    { "en": "They don't allow pets in the office.", "ja": "オフィスではペットは禁止されている。" }
   ]
 }
