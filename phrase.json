@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-24",
-  "phrase": "You're honestly the perfect candidate.",
-  "reading": "ユア オネストリー ザ パーフェクト キャンディデイト",
-  "meaning": "正直、あなたが最適な候補者よ。",
-  "word": "candidate",
+  "date": "2026-09-25",
+  "phrase": "This partnership looks really promising.",
+  "reading": "ディス パートナーシップ ルックス リアリー プロミシング",
+  "meaning": "このパートナーシップは本当に有望に見えるね。",
+  "word": "promising",
   "source": "Emily in Paris",
-  "note": "誰かを推薦・称賛する時に使うフレーズ。ビジネスでもカジュアルでも使える。",
+  "note": "仕事や恋愛の先行きに期待が持てるときのひと言。ビジネスシーンで特によく使われる。",
   "examples": [
-    { "en": "You're honestly the perfect candidate for this role.", "ja": "正直、この役割にはあなたが最適な候補者よ。" },
-    { "en": "She's not even a candidate anymore.", "ja": "彼女はもう候補者ですらないわ。" },
-    { "en": "Who's the strongest candidate so far?", "ja": "今のところ一番有力な候補者は誰？" }
+    { "en": "Her career is looking really promising.", "ja": "彼女のキャリアは本当に有望に見える。" },
+    { "en": "This new client looks promising.", "ja": "この新しいクライアントは有望そうだ。" },
+    { "en": "The results are promising so far.", "ja": "今のところ結果は期待できそうだ。" }
   ]
 }
