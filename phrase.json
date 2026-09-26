@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-25",
-  "phrase": "This partnership looks really promising.",
-  "reading": "ディス パートナーシップ ルックス リアリー プロミシング",
-  "meaning": "このパートナーシップは本当に有望に見えるね。",
-  "word": "promising",
+  "date": "2026-09-26",
+  "phrase": "I'm completely exhausted after today.",
+  "reading": "アイム コンプリートリー イグゾーステッド アフター トゥデイ",
+  "meaning": "今日は本当にくたくたに疲れた。",
+  "word": "exhausted",
   "source": "Emily in Paris",
-  "note": "仕事や恋愛の先行きに期待が持てるときのひと言。ビジネスシーンで特によく使われる。",
+  "note": "心身ともに疲れ切った状態を表すカジュアルな言い方。友人同士の会話でよく使われる。",
   "examples": [
-    { "en": "Her career is looking really promising.", "ja": "彼女のキャリアは本当に有望に見える。" },
-    { "en": "This new client looks promising.", "ja": "この新しいクライアントは有望そうだ。" },
-    { "en": "The results are promising so far.", "ja": "今のところ結果は期待できそうだ。" }
+    { "en": "I'm exhausted, I need a shower and a nap.", "ja": "疲れ切った、シャワー浴びて仮眠取らなきゃ。" },
+    { "en": "You look exhausted. Did you sleep last night?", "ja": "疲れてるみたいだけど、昨日ちゃんと寝た？" },
+    { "en": "After the shoot, everyone was totally exhausted.", "ja": "撮影の後、みんなすっかり疲れ果てていた。" }
   ]
 }
