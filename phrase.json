@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-27",
-  "phrase": "Not too bad, actually.",
-  "reading": "ナット トゥー バッド、アクチュアリー",
-  "meaning": "まあ悪くないよ、実は。",
-  "word": "Not too bad.",
+  "date": "2026-09-28",
+  "phrase": "It's too good to be true.",
+  "reading": "イッツ トゥー グッド トゥー ビー トゥルー",
+  "meaning": "話がうますぎて本当とは思えない。",
+  "word": "too 〜 to …",
   "source": "Emily in Paris",
-  "note": "予想より良かった時の軽い返し。謙遜しつつ満足感をにじませるカジュアルな言い方。",
+  "note": "「too ～ to …」で「～すぎて…できない」。うまい話を疑うときの定番。パリ暮らしの浮かれ気分にも。",
   "examples": [
-    { "en": "How was your first day? Not too bad, actually.", "ja": "初日どうだった？まあ悪くなかったよ、実は。" },
-    { "en": "The food here is not too bad for the price.", "ja": "ここの料理、値段の割には悪くないね。" },
-    { "en": "Not too bad for someone who's never done this before.", "ja": "初めてにしては、まあまあ上出来じゃない。" }
+    { "en": "I'm too tired to think straight.", "ja": "疲れすぎてまともに考えられない。" },
+    { "en": "It's too early to tell.", "ja": "まだ判断するには早すぎる。" },
+    { "en": "She's too proud to ask for help.", "ja": "彼女はプライドが高くて助けを求められない。" }
   ]
 }
