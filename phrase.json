@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-28",
-  "phrase": "It's too good to be true.",
-  "reading": "イッツ トゥー グッド トゥー ビー トゥルー",
-  "meaning": "話がうますぎて本当とは思えない。",
-  "word": "too 〜 to …",
+  "date": "2026-09-29",
+  "phrase": "Why bother pretending?",
+  "reading": "ワイ ボザー プリテンディング",
+  "meaning": "わざわざ取り繕う必要ある？",
+  "word": "Why bother ~ing?",
   "source": "Emily in Paris",
-  "note": "「too ～ to …」で「～すぎて…できない」。うまい話を疑うときの定番。パリ暮らしの浮かれ気分にも。",
+  "note": "「どうせ意味ないのに」という呆れや皮肉を含む。相手の無駄な努力を軽く突っ込む時に。",
   "examples": [
-    { "en": "I'm too tired to think straight.", "ja": "疲れすぎてまともに考えられない。" },
-    { "en": "It's too early to tell.", "ja": "まだ判断するには早すぎる。" },
-    { "en": "She's too proud to ask for help.", "ja": "彼女はプライドが高くて助けを求められない。" }
+    { "en": "Why bother calling him? He never picks up.", "ja": "わざわざ電話する意味ある？彼、絶対出ないよ。" },
+    { "en": "Why bother dressing up for a quiet dinner?", "ja": "静かなディナーにわざわざ着飾る必要ある？" },
+    { "en": "Why bother arguing? She's made up her mind.", "ja": "議論して何になるの？彼女はもう決めてるよ。" }
   ]
 }
