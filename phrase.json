@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-29",
-  "phrase": "Why bother pretending?",
-  "reading": "ワイ ボザー プリテンディング",
-  "meaning": "わざわざ取り繕う必要ある？",
-  "word": "Why bother ~ing?",
+  "date": "2026-09-30",
+  "phrase": "Just rip off the Band-Aid.",
+  "reading": "ジャスト リップ オフ ザ バンデイド",
+  "meaning": "つらいことは一気に済ませちゃいなよ",
+  "word": "rip off the Band-Aid（Ripping off the Band-Aid）",
   "source": "Emily in Paris",
-  "note": "「どうせ意味ないのに」という呆れや皮肉を含む。相手の無駄な努力を軽く突っ込む時に。",
+  "note": "嫌な話や決断を先延ばしにせず、思い切って一気にやれと背中を押す定番の比喩表現。",
   "examples": [
-    { "en": "Why bother calling him? He never picks up.", "ja": "わざわざ電話する意味ある？彼、絶対出ないよ。" },
-    { "en": "Why bother dressing up for a quiet dinner?", "ja": "静かなディナーにわざわざ着飾る必要ある？" },
-    { "en": "Why bother arguing? She's made up her mind.", "ja": "議論して何になるの？彼女はもう決めてるよ。" }
+    { "en": "Just rip off the Band-Aid and tell him.", "ja": "一気に言っちゃいなよ、彼に。" },
+    { "en": "I'd rather rip off the Band-Aid than wait.", "ja": "待つより一気に片付けたいな。" },
+    { "en": "Breaking up by text? Rip off the Band-Aid in person.", "ja": "LINEで別れるの？ 会って一気に言いなよ。" }
   ]
 }
