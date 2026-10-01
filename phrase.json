@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-30",
-  "phrase": "Just rip off the Band-Aid.",
-  "reading": "ジャスト リップ オフ ザ バンデイド",
-  "meaning": "つらいことは一気に済ませちゃいなよ",
-  "word": "rip off the Band-Aid（Ripping off the Band-Aid）",
+  "date": "2026-10-01",
+  "phrase": "She'll warm up to you eventually.",
+  "reading": "シール ウォーム アップ トゥ ユー イベンチュアリー",
+  "meaning": "彼女もそのうち君に打ち解けてくれるよ",
+  "word": "warm up to",
   "source": "Emily in Paris",
-  "note": "嫌な話や決断を先延ばしにせず、思い切って一気にやれと背中を押す定番の比喩表現。",
+  "note": "最初は距離のあった相手に、時間とともに心を開く・好感を持つ様子。人にも場所にも使える。",
   "examples": [
-    { "en": "Just rip off the Band-Aid and tell him.", "ja": "一気に言っちゃいなよ、彼に。" },
-    { "en": "I'd rather rip off the Band-Aid than wait.", "ja": "待つより一気に片付けたいな。" },
-    { "en": "Breaking up by text? Rip off the Band-Aid in person.", "ja": "LINEで別れるの？ 会って一気に言いなよ。" }
+    { "en": "She'll warm up to you eventually.", "ja": "彼女もそのうち君に打ち解けてくれるよ。" },
+    { "en": "It took me a while to warm up to Paris.", "ja": "パリに慣れるまで少し時間がかかった。" },
+    { "en": "He's not warming up to the new boss.", "ja": "彼は新しい上司になかなか心を開かない。" }
   ]
 }
