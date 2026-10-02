@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-01",
-  "phrase": "She'll warm up to you eventually.",
-  "reading": "シール ウォーム アップ トゥ ユー イベンチュアリー",
-  "meaning": "彼女もそのうち君に打ち解けてくれるよ",
-  "word": "warm up to",
+  "date": "2026-10-02",
+  "phrase": "Wait, they split up?",
+  "reading": "ウェイト、ゼイ スプリット アップ？",
+  "meaning": "え、あの二人別れたの？",
+  "word": "split up",
   "source": "Emily in Paris",
-  "note": "最初は距離のあった相手に、時間とともに心を開く・好感を持つ様子。人にも場所にも使える。",
+  "note": "恋人や夫婦が別れる時の定番。驚きや噂話のトーンで言うと自然。breakupより口語的。",
   "examples": [
-    { "en": "She'll warm up to you eventually.", "ja": "彼女もそのうち君に打ち解けてくれるよ。" },
-    { "en": "It took me a while to warm up to Paris.", "ja": "パリに慣れるまで少し時間がかかった。" },
-    { "en": "He's not warming up to the new boss.", "ja": "彼は新しい上司になかなか心を開かない。" }
+    {
+      "en": "I heard Camille and Gabriel split up.",
+      "ja": "カミーユとガブリエルが別れたって聞いたよ。"
+    },
+    {
+      "en": "They split up last spring, but stayed friends.",
+      "ja": "去年の春に別れたけど、友達のままなんだ。"
+    },
+    {
+      "en": "Why did you two split up?",
+      "ja": "二人はなんで別れたの？"
+    }
   ]
 }
