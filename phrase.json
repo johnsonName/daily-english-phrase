@@ -1,23 +1,14 @@
 {
-  "date": "2026-10-02",
-  "phrase": "Wait, they split up?",
-  "reading": "ウェイト、ゼイ スプリット アップ？",
-  "meaning": "え、あの二人別れたの？",
-  "word": "split up",
+  "date": "2026-10-03",
+  "phrase": "She always takes credit for my work.",
+  "reading": "シー オールウェイズ テイクス クレディット フォー マイ ワーク",
+  "meaning": "彼女はいつも私の手柄を横取りする。",
+  "word": "take credit for",
   "source": "Emily in Paris",
-  "note": "恋人や夫婦が別れる時の定番。驚きや噂話のトーンで言うと自然。breakupより口語的。",
+  "note": "人の成果を自分のものにする不満を表す口語。皮肉や怒りを込めて、職場の愚痴でよく使われる。",
   "examples": [
-    {
-      "en": "I heard Camille and Gabriel split up.",
-      "ja": "カミーユとガブリエルが別れたって聞いたよ。"
-    },
-    {
-      "en": "They split up last spring, but stayed friends.",
-      "ja": "去年の春に別れたけど、友達のままなんだ。"
-    },
-    {
-      "en": "Why did you two split up?",
-      "ja": "二人はなんで別れたの？"
-    }
+    { "en": "He took credit for my idea in the meeting.", "ja": "彼は会議で私のアイデアを自分の手柄にした。" },
+    { "en": "Don't let him take credit for your work.", "ja": "彼にあなたの仕事の手柄を取らせちゃだめ。" },
+    { "en": "I'm not trying to take credit for this.", "ja": "これを自分の手柄にしようってわけじゃないよ。" }
   ]
 }
