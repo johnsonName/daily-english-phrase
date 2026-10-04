@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-03",
-  "phrase": "She always takes credit for my work.",
-  "reading": "シー オールウェイズ テイクス クレディット フォー マイ ワーク",
-  "meaning": "彼女はいつも私の手柄を横取りする。",
-  "word": "take credit for",
+  "date": "2026-10-04",
+  "phrase": "Oh, that gets me every time.",
+  "reading": "オー ザット ゲッツ ミー エブリ タイム",
+  "meaning": "あ〜それ、何度見てもやられるんだよね。",
+  "word": "That gets me every time.",
   "source": "Emily in Paris",
-  "note": "人の成果を自分のものにする不満を表す口語。皮肉や怒りを込めて、職場の愚痴でよく使われる。",
+  "note": "笑い・感動・引っかかりなど、毎回感情を揺さぶられる時に。軽い口語で、冗談にも感動にも使える。",
   "examples": [
-    { "en": "He took credit for my idea in the meeting.", "ja": "彼は会議で私のアイデアを自分の手柄にした。" },
-    { "en": "Don't let him take credit for your work.", "ja": "彼にあなたの仕事の手柄を取らせちゃだめ。" },
-    { "en": "I'm not trying to take credit for this.", "ja": "これを自分の手柄にしようってわけじゃないよ。" }
+    { "en": "That scene gets me every time. I always cry.", "ja": "あのシーンは毎回やられる。いつも泣いちゃう。" },
+    { "en": "His dumb jokes? That gets me every time.", "ja": "彼のくだらない冗談？毎回笑っちゃうんだよね。" },
+    { "en": "That trick gets me every time, honestly.", "ja": "そのトリックには正直いつも騙されるよ。" }
   ]
 }
