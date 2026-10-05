@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-04",
-  "phrase": "Oh, that gets me every time.",
-  "reading": "オー ザット ゲッツ ミー エブリ タイム",
-  "meaning": "あ〜それ、何度見てもやられるんだよね。",
-  "word": "That gets me every time.",
+  "date": "2026-10-05",
+  "phrase": "That's so unfortunate, honestly.",
+  "reading": "ザッツ ソー アンフォーチュネット、オネストリー",
+  "meaning": "それは本当に残念だね、正直。",
+  "word": "unfortunate",
   "source": "Emily in Paris",
-  "note": "笑い・感動・引っかかりなど、毎回感情を揺さぶられる時に。軽い口語で、冗談にも感動にも使える。",
+  "note": "同情や皮肉を込めて「残念」と返す万能フレーズ。soを入れると気持ちが強まる。",
   "examples": [
-    { "en": "That scene gets me every time. I always cry.", "ja": "あのシーンは毎回やられる。いつも泣いちゃう。" },
-    { "en": "His dumb jokes? That gets me every time.", "ja": "彼のくだらない冗談？毎回笑っちゃうんだよね。" },
-    { "en": "That trick gets me every time, honestly.", "ja": "そのトリックには正直いつも騙されるよ。" }
+    { "en": "That's so unfortunate, honestly.", "ja": "それは本当に残念だね、正直。" },
+    { "en": "What an unfortunate misunderstanding.", "ja": "なんて不運な誤解なの。" },
+    { "en": "Unfortunate timing, but we'll manage.", "ja": "タイミングは悪いけど、何とかするよ。" }
   ]
 }
