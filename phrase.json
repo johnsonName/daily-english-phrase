@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-05",
-  "phrase": "That's so unfortunate, honestly.",
-  "reading": "ザッツ ソー アンフォーチュネット、オネストリー",
-  "meaning": "それは本当に残念だね、正直。",
-  "word": "unfortunate",
+  "date": "2026-10-06",
+  "phrase": "Wow, that color really suits you.",
+  "reading": "ワウ、ザット カラー リアリー スーツ ユー",
+  "meaning": "わあ、その色、本当によく似合ってるね。",
+  "word": "It suits you.",
   "source": "Emily in Paris",
-  "note": "同情や皮肉を込めて「残念」と返す万能フレーズ。soを入れると気持ちが強まる。",
+  "note": "服や髪型、雰囲気が似合うと褒める定番表現。軽い褒め言葉として会話でよく使う。",
   "examples": [
-    { "en": "That's so unfortunate, honestly.", "ja": "それは本当に残念だね、正直。" },
-    { "en": "What an unfortunate misunderstanding.", "ja": "なんて不運な誤解なの。" },
-    { "en": "Unfortunate timing, but we'll manage.", "ja": "タイミングは悪いけど、何とかするよ。" }
+    { "en": "New haircut? It suits you.", "ja": "髪切った？似合ってるよ。" },
+    { "en": "That red dress really suits you.", "ja": "その赤いドレス、本当に似合うね。" },
+    { "en": "Being the boss suits you, honestly.", "ja": "正直、ボス役が君には似合ってるよ。" }
   ]
 }
