@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-06",
-  "phrase": "Wow, that color really suits you.",
-  "reading": "ワウ、ザット カラー リアリー スーツ ユー",
-  "meaning": "わあ、その色、本当によく似合ってるね。",
-  "word": "It suits you.",
-  "source": "Emily in Paris",
-  "note": "服や髪型、雰囲気が似合うと褒める定番表現。軽い褒め言葉として会話でよく使う。",
+  "date": "2026-10-07",
+  "phrase": "Don't hang up on me!",
+  "reading": "ドント ハング アップ オン ミー",
+  "meaning": "私の電話を切らないで！",
+  "word": "hang up",
+  "source": "Gossip Girl",
+  "note": "hang up on 人 で「相手の電話を一方的に切る」。怒りや焦りの場面で使う。",
   "examples": [
-    { "en": "New haircut? It suits you.", "ja": "髪切った？似合ってるよ。" },
-    { "en": "That red dress really suits you.", "ja": "その赤いドレス、本当に似合うね。" },
-    { "en": "Being the boss suits you, honestly.", "ja": "正直、ボス役が君には似合ってるよ。" }
+    { "en": "Don't hang up on me!", "ja": "電話切らないで！" },
+    { "en": "She hung up on me again.", "ja": "彼女、また一方的に切ったの。" },
+    { "en": "Hang up and call me back.", "ja": "一度切ってかけ直して。" }
   ]
 }
