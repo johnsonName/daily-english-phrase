@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-07",
-  "phrase": "Don't hang up on me!",
-  "reading": "ドント ハング アップ オン ミー",
-  "meaning": "私の電話を切らないで！",
-  "word": "hang up",
-  "source": "Gossip Girl",
-  "note": "hang up on 人 で「相手の電話を一方的に切る」。怒りや焦りの場面で使う。",
+  "date": "2026-10-08",
+  "phrase": "To my knowledge, he's not coming.",
+  "reading": "トゥ マイ ノレッジ、ヒーズ ノット カミング",
+  "meaning": "私の知る限り、彼は来ないはず。",
+  "word": "knowledge",
+  "source": "Emily in Paris",
+  "note": "To my knowledge は「私の知る限りでは」。断定を避けつつ情報を伝える、会話や仕事でよく使う便利な前置き。",
   "examples": [
-    { "en": "Don't hang up on me!", "ja": "電話切らないで！" },
-    { "en": "She hung up on me again.", "ja": "彼女、また一方的に切ったの。" },
-    { "en": "Hang up and call me back.", "ja": "一度切ってかけ直して。" }
+    { "en": "To my knowledge, the meeting's been moved to Friday.", "ja": "私の知る限り、会議は金曜に変更になったよ。" },
+    { "en": "Not to my knowledge. Why, did something happen?", "ja": "私は知らないけど。何かあったの？" },
+    { "en": "That's common knowledge in Paris, darling.", "ja": "それはパリじゃ常識よ、ダーリン。" }
   ]
 }
