@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-09",
-  "phrase": "Trust me, it's so worth it.",
-  "reading": "トラスト ミー、イッツ ソー ワース イット",
-  "meaning": "信じて、それだけの価値は絶対あるから。",
-  "word": "worth it",
-  "source": "Gossip Girl",
-  "note": "苦労や出費に見合うか話す時の定番。so/totally を付けると力強い後押しになる。",
+  "date": "2026-10-10",
+  "phrase": "I'm totally obsessed with it.",
+  "reading": "アイム トータリー オブセスト ウィズ イット",
+  "meaning": "それに完全にハマってるの。",
+  "word": "obsessed",
+  "source": "Emily in Paris",
+  "note": "be obsessed with ～で「～に夢中・ハマってる」。好きなものへの熱量を軽く強調する日常語。",
   "examples": [
-    { "en": "It was expensive, but totally worth it.", "ja": "高かったけど、完全にその価値はあった。" },
-    { "en": "Is it worth it? I'm not so sure.", "ja": "それだけの価値ある？ よく分からないな。" },
-    { "en": "Wake up early. Trust me, it's worth it.", "ja": "早起きしてみて。絶対その価値あるから。" }
+    { "en": "She's obsessed with that new bakery.", "ja": "彼女はあの新しいパン屋に夢中だよ。" },
+    { "en": "Are you still obsessed with that show?", "ja": "まだあのドラマにハマってるの？" },
+    { "en": "I'm so obsessed with this song right now.", "ja": "今この曲にどハマりしてる。" }
   ]
 }
