@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-10",
-  "phrase": "I'm totally obsessed with it.",
-  "reading": "アイム トータリー オブセスト ウィズ イット",
-  "meaning": "それに完全にハマってるの。",
-  "word": "obsessed",
+  "date": "2026-10-11",
+  "phrase": "Things got really awkward.",
+  "reading": "スィングス ガット リアリー オークワード",
+  "meaning": "めちゃくちゃ気まずくなった。",
+  "word": "awkward",
   "source": "Emily in Paris",
-  "note": "be obsessed with ～で「～に夢中・ハマってる」。好きなものへの熱量を軽く強調する日常語。",
+  "note": "場の空気が気まずくなった時の定番。awkward silence(気まずい沈黙)など、日常会話で超頻出。",
   "examples": [
-    { "en": "She's obsessed with that new bakery.", "ja": "彼女はあの新しいパン屋に夢中だよ。" },
-    { "en": "Are you still obsessed with that show?", "ja": "まだあのドラマにハマってるの？" },
-    { "en": "I'm so obsessed with this song right now.", "ja": "今この曲にどハマりしてる。" }
+    {
+      "en": "It was so awkward at dinner.",
+      "ja": "夕食、すごく気まずかった。"
+    },
+    {
+      "en": "Don't make it awkward.",
+      "ja": "気まずくしないでよ。"
+    },
+    {
+      "en": "There was an awkward silence.",
+      "ja": "気まずい沈黙が流れた。"
+    }
   ]
 }
