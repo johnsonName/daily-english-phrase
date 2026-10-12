@@ -1,23 +1,14 @@
 {
-  "date": "2026-10-11",
-  "phrase": "Things got really awkward.",
-  "reading": "スィングス ガット リアリー オークワード",
-  "meaning": "めちゃくちゃ気まずくなった。",
-  "word": "awkward",
-  "source": "Emily in Paris",
-  "note": "場の空気が気まずくなった時の定番。awkward silence(気まずい沈黙)など、日常会話で超頻出。",
+  "date": "2026-10-12",
+  "phrase": "I suppose you're right.",
+  "reading": "アイ サポウズ ユア ライト",
+  "meaning": "あなたの言う通りだと思うわ。",
+  "word": "suppose",
+  "source": "Gossip Girl",
+  "note": "「まあ、そうかもね」と渋々認めるニュアンス。皮肉っぽくも使える。",
   "examples": [
-    {
-      "en": "It was so awkward at dinner.",
-      "ja": "夕食、すごく気まずかった。"
-    },
-    {
-      "en": "Don't make it awkward.",
-      "ja": "気まずくしないでよ。"
-    },
-    {
-      "en": "There was an awkward silence.",
-      "ja": "気まずい沈黙が流れた。"
-    }
+    { "en": "I suppose we could skip the party.", "ja": "パーティーは欠席してもいいかもね。" },
+    { "en": "Well, I suppose that's one way to look at it.", "ja": "まあ、そういう見方もあるわね。" },
+    { "en": "Suppose he says no. Then what?", "ja": "もし彼が断ったら？その時はどうする？" }
   ]
 }
