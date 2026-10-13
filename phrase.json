@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-12",
-  "phrase": "I suppose you're right.",
-  "reading": "アイ サポウズ ユア ライト",
-  "meaning": "あなたの言う通りだと思うわ。",
-  "word": "suppose",
-  "source": "Gossip Girl",
-  "note": "「まあ、そうかもね」と渋々認めるニュアンス。皮肉っぽくも使える。",
+  "date": "2026-10-13",
+  "phrase": "I'm so pissed off right now.",
+  "reading": "アイム ソウ ピスト オフ ライト ナウ",
+  "meaning": "今、めちゃくちゃムカついてる。",
+  "word": "pissed off",
+  "source": "Emily in Paris",
+  "note": "angryよりくだけた強めの口語。親しい相手との会話向きで、目上や仕事の場では避けるのが無難。",
   "examples": [
-    { "en": "I suppose we could skip the party.", "ja": "パーティーは欠席してもいいかもね。" },
-    { "en": "Well, I suppose that's one way to look at it.", "ja": "まあ、そういう見方もあるわね。" },
-    { "en": "Suppose he says no. Then what?", "ja": "もし彼が断ったら？その時はどうする？" }
+    {
+      "en": "He's pissed off because I forgot his birthday.",
+      "ja": "誕生日を忘れたから、彼は怒ってる。"
+    },
+    {
+      "en": "Why are you so pissed off at me?",
+      "ja": "なんでそんなに私に腹を立ててるの？"
+    },
+    {
+      "en": "Don't get pissed off, I was just kidding.",
+      "ja": "怒らないで、冗談だったの。"
+    }
   ]
 }
