@@ -1,23 +1,14 @@
 {
-  "date": "2026-10-13",
-  "phrase": "I'm so pissed off right now.",
-  "reading": "アイム ソウ ピスト オフ ライト ナウ",
-  "meaning": "今、めちゃくちゃムカついてる。",
-  "word": "pissed off",
+  "date": "2026-10-14",
+  "phrase": "There's no way he said that.",
+  "reading": "ゼアーズ ノー ウェイ ヒー セッド ザット",
+  "meaning": "彼がそんなこと言うわけない。",
+  "word": "There's no way.",
   "source": "Emily in Paris",
-  "note": "angryよりくだけた強めの口語。親しい相手との会話向きで、目上や仕事の場では避けるのが無難。",
+  "note": "「ありえない」を強く否定する定番表現。後ろに文を続けて「〜なわけがない」とも言える。",
   "examples": [
-    {
-      "en": "He's pissed off because I forgot his birthday.",
-      "ja": "誕生日を忘れたから、彼は怒ってる。"
-    },
-    {
-      "en": "Why are you so pissed off at me?",
-      "ja": "なんでそんなに私に腹を立ててるの？"
-    },
-    {
-      "en": "Don't get pissed off, I was just kidding.",
-      "ja": "怒らないで、冗談だったの。"
-    }
+    { "en": "There's no way I'm going to that meeting.", "ja": "あの会議に行くなんて絶対ありえない。" },
+    { "en": "There's no way she knew about it.", "ja": "彼女がそれを知ってたはずがない。" },
+    { "en": "No way! There's no way that's real.", "ja": "うそ！それが本物なわけないでしょ。" }
   ]
 }
