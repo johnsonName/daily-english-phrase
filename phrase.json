@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-14",
-  "phrase": "There's no way he said that.",
-  "reading": "ゼアーズ ノー ウェイ ヒー セッド ザット",
-  "meaning": "彼がそんなこと言うわけない。",
-  "word": "There's no way.",
+  "date": "2026-10-15",
+  "phrase": "Is it easily accessible by metro?",
+  "reading": "イズ イット イーズィリー アクセサブル バイ メトロ",
+  "meaning": "そこ、メトロで行きやすい？",
+  "word": "accessible",
   "source": "Emily in Paris",
-  "note": "「ありえない」を強く否定する定番表現。後ろに文を続けて「〜なわけがない」とも言える。",
+  "note": "場所・情報・人などが「近づきやすい／アクセスしやすい」と言うときの定番。物件探しや待ち合わせの確認に便利。",
   "examples": [
-    { "en": "There's no way I'm going to that meeting.", "ja": "あの会議に行くなんて絶対ありえない。" },
-    { "en": "There's no way she knew about it.", "ja": "彼女がそれを知ってたはずがない。" },
-    { "en": "No way! There's no way that's real.", "ja": "うそ！それが本物なわけないでしょ。" }
+    { "en": "Is the venue accessible by public transport?", "ja": "会場は公共交通機関で行きやすい？" },
+    { "en": "He's surprisingly accessible for a CEO.", "ja": "彼はCEOにしては意外と話しかけやすい。" },
+    { "en": "We want the app to be accessible to everyone.", "ja": "アプリを誰でも使いやすくしたいんだ。" }
   ]
 }
