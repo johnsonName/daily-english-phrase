@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-15",
-  "phrase": "Is it easily accessible by metro?",
-  "reading": "イズ イット イーズィリー アクセサブル バイ メトロ",
-  "meaning": "そこ、メトロで行きやすい？",
-  "word": "accessible",
+  "date": "2026-10-16",
+  "phrase": "I'd be lying if I said I wasn't jealous.",
+  "reading": "アイドビーライイングイファイセッド アイワズントジェラス",
+  "meaning": "嫉妬してないと言ったら嘘になるわ。",
+  "word": "I'd be lying if I said 〜",
   "source": "Emily in Paris",
-  "note": "場所・情報・人などが「近づきやすい／アクセスしやすい」と言うときの定番。物件探しや待ち合わせの確認に便利。",
+  "note": "本音をあえて認める時の言い回し。「正直、〜だよ」と軽く打ち明ける感じで、会話でよく使う。",
   "examples": [
-    { "en": "Is the venue accessible by public transport?", "ja": "会場は公共交通機関で行きやすい？" },
-    { "en": "He's surprisingly accessible for a CEO.", "ja": "彼はCEOにしては意外と話しかけやすい。" },
-    { "en": "We want the app to be accessible to everyone.", "ja": "アプリを誰でも使いやすくしたいんだ。" }
+    {
+      "en": "I'd be lying if I said I wasn't nervous.",
+      "ja": "緊張してないと言ったら嘘になる。"
+    },
+    {
+      "en": "I'd be lying if I said I didn't miss him.",
+      "ja": "彼が恋しくないと言ったら嘘になる。"
+    },
+    {
+      "en": "I'd be lying if I said this was easy.",
+      "ja": "これが簡単だったと言ったら嘘になる。"
+    }
   ]
 }
