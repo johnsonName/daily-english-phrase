@@ -1,23 +1,14 @@
 {
-  "date": "2026-10-16",
-  "phrase": "I'd be lying if I said I wasn't jealous.",
-  "reading": "アイドビーライイングイファイセッド アイワズントジェラス",
-  "meaning": "嫉妬してないと言ったら嘘になるわ。",
-  "word": "I'd be lying if I said 〜",
+  "date": "2026-10-17",
+  "phrase": "That's insane. You're serious?",
+  "reading": "ザッツ インセイン。ユア スィリアス？",
+  "meaning": "ありえない。本気で言ってる？",
+  "word": "insane",
   "source": "Emily in Paris",
-  "note": "本音をあえて認める時の言い回し。「正直、〜だよ」と軽く打ち明ける感じで、会話でよく使う。",
+  "note": "「正気じゃない」から転じ、驚き・呆れ・称賛にも使う口語。良い意味で「やばい」にもなる。",
   "examples": [
-    {
-      "en": "I'd be lying if I said I wasn't nervous.",
-      "ja": "緊張してないと言ったら嘘になる。"
-    },
-    {
-      "en": "I'd be lying if I said I didn't miss him.",
-      "ja": "彼が恋しくないと言ったら嘘になる。"
-    },
-    {
-      "en": "I'd be lying if I said this was easy.",
-      "ja": "これが簡単だったと言ったら嘘になる。"
-    }
+    { "en": "That's insane. You quit without a backup plan?", "ja": "ありえない。代わりの計画もなく辞めたの？" },
+    { "en": "The view from the rooftop is insane.", "ja": "屋上からの眺めがヤバい。" },
+    { "en": "He's insane to turn down that offer.", "ja": "あの話を断るなんて、彼は正気じゃない。" }
   ]
 }
