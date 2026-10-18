@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-17",
-  "phrase": "That's insane. You're serious?",
-  "reading": "ザッツ インセイン。ユア スィリアス？",
-  "meaning": "ありえない。本気で言ってる？",
-  "word": "insane",
+  "date": "2026-10-18",
+  "phrase": "You are so stubborn sometimes.",
+  "reading": "ユー アー ソー スタボン サムタイムズ",
+  "meaning": "あなた、時々ほんと頑固だよね。",
+  "word": "stubborn",
   "source": "Emily in Paris",
-  "note": "「正気じゃない」から転じ、驚き・呆れ・称賛にも使う口語。良い意味で「やばい」にもなる。",
+  "note": "呆れ半分・親しみ半分で使う。so で強調すると軽い小言のトーンになる。",
   "examples": [
-    { "en": "That's insane. You quit without a backup plan?", "ja": "ありえない。代わりの計画もなく辞めたの？" },
-    { "en": "The view from the rooftop is insane.", "ja": "屋上からの眺めがヤバい。" },
-    { "en": "He's insane to turn down that offer.", "ja": "あの話を断るなんて、彼は正気じゃない。" }
+    { "en": "Don't be so stubborn. Just ask for help.", "ja": "そんなに頑固にならないで。助けを求めなよ。" },
+    { "en": "He's too stubborn to admit he's wrong.", "ja": "彼は頑固すぎて間違いを認めない。" },
+    { "en": "That stain is really stubborn.", "ja": "そのシミ、ほんとに落ちにくい。" }
   ]
 }
