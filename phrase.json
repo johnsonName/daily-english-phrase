@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-18",
-  "phrase": "You are so stubborn sometimes.",
-  "reading": "ユー アー ソー スタボン サムタイムズ",
-  "meaning": "あなた、時々ほんと頑固だよね。",
-  "word": "stubborn",
+  "date": "2026-10-19",
+  "phrase": "Okay, that's a little weird.",
+  "reading": "オーケイ、ザッツ ア リトル ウィアード",
+  "meaning": "うーん、それはちょっと変だよ。",
+  "word": "weird",
   "source": "Emily in Paris",
-  "note": "呆れ半分・親しみ半分で使う。so で強調すると軽い小言のトーンになる。",
+  "note": "strangeより口語的。a little をつけて角を立てず違和感を伝える定番の言い回し。",
   "examples": [
-    { "en": "Don't be so stubborn. Just ask for help.", "ja": "そんなに頑固にならないで。助けを求めなよ。" },
-    { "en": "He's too stubborn to admit he's wrong.", "ja": "彼は頑固すぎて間違いを認めない。" },
-    { "en": "That stain is really stubborn.", "ja": "そのシミ、ほんとに落ちにくい。" }
+    { "en": "It's weird that he hasn't called me back.", "ja": "彼が折り返してこないのは変だよ。" },
+    { "en": "Don't make it weird.", "ja": "変な空気にしないでよ。" },
+    { "en": "I had such a weird dream last night.", "ja": "昨日すごく変な夢を見たの。" }
   ]
 }
