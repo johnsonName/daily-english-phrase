@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-19",
-  "phrase": "Okay, that's a little weird.",
-  "reading": "オーケイ、ザッツ ア リトル ウィアード",
-  "meaning": "うーん、それはちょっと変だよ。",
-  "word": "weird",
-  "source": "Emily in Paris",
-  "note": "strangeより口語的。a little をつけて角を立てず違和感を伝える定番の言い回し。",
+  "date": "2026-10-20",
+  "phrase": "My commute to school is brutal.",
+  "reading": "マイ カミュート トゥ スクール イズ ブルータル",
+  "meaning": "私の通学、地獄なんだけど。",
+  "word": "commute",
+  "source": "Gossip Girl",
+  "note": "commute は通学・通勤どちらにも使える。brutal は「きつい」の口語で、愚痴っぽく言う時に便利。",
   "examples": [
-    { "en": "It's weird that he hasn't called me back.", "ja": "彼が折り返してこないのは変だよ。" },
-    { "en": "Don't make it weird.", "ja": "変な空気にしないでよ。" },
-    { "en": "I had such a weird dream last night.", "ja": "昨日すごく変な夢を見たの。" }
+    { "en": "How long is your commute to school?", "ja": "通学にどれくらいかかるの？" },
+    { "en": "I commute from Brooklyn every morning.", "ja": "毎朝ブルックリンから通ってるの。" },
+    { "en": "The morning commute is the worst part.", "ja": "朝の通学が一番つらい。" }
   ]
 }
