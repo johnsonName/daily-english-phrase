@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-21",
-  "phrase": "Why'd you have to bring it up?",
-  "reading": "ワイドゥ ユー ハフ トゥ ブリング イット アップ",
-  "meaning": "なんでわざわざそれを話題にするの？",
-  "word": "bring it up",
+  "date": "2026-10-22",
+  "phrase": "I feel awful about what I said.",
+  "reading": "アイ フィール オーフル アバウト ワット アイ セッド",
+  "meaning": "自分が言ったことをひどく後悔している／申し訳なく思っている",
+  "word": "awful",
   "source": "Emily in Paris",
-  "note": "触れてほしくない話題を持ち出された時の不満げな一言。軽い皮肉や気まずさのトーンで使う。",
+  "note": "awfulは「ひどい」だけでなく、feel awfulで「体調が最悪」「罪悪感がある」の両方に使える日常語。",
   "examples": [
-    { "en": "Please don't bring it up at dinner.", "ja": "夕食の時にその話は出さないでね。" },
-    { "en": "I didn't want to bring it up, but we need to talk.", "ja": "言いたくなかったけど、話し合う必要があるの。" },
-    { "en": "She brought it up out of nowhere.", "ja": "彼女は突然その話を持ち出した。" }
+    { "en": "I feel awful about what I said.", "ja": "あんなこと言って、本当に申し訳なく思ってる。" },
+    { "en": "You look awful. Did you sleep at all?", "ja": "ひどい顔だよ。ちゃんと寝た？" },
+    { "en": "The traffic was awful this morning.", "ja": "今朝の渋滞は最悪だった。" }
   ]
 }
