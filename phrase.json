@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-22",
-  "phrase": "I feel awful about what I said.",
-  "reading": "アイ フィール オーフル アバウト ワット アイ セッド",
-  "meaning": "自分が言ったことをひどく後悔している／申し訳なく思っている",
-  "word": "awful",
+  "date": "2026-10-23",
+  "phrase": "I just realized I'm late.",
+  "reading": "アイ ジャスト リアライズド アイム レイト",
+  "meaning": "今、遅刻してるって気づいた。",
+  "word": "realize",
   "source": "Emily in Paris",
-  "note": "awfulは「ひどい」だけでなく、feel awfulで「体調が最悪」「罪悪感がある」の両方に使える日常語。",
+  "note": "ふと気づいた瞬間に使う。just を入れると「今まさに」の感じが出る。",
   "examples": [
-    { "en": "I feel awful about what I said.", "ja": "あんなこと言って、本当に申し訳なく思ってる。" },
-    { "en": "You look awful. Did you sleep at all?", "ja": "ひどい顔だよ。ちゃんと寝た？" },
-    { "en": "The traffic was awful this morning.", "ja": "今朝の渋滞は最悪だった。" }
+    { "en": "I just realized I forgot my keys.", "ja": "鍵を忘れたことに今気づいた。" },
+    { "en": "Do you realize how late it is?", "ja": "今何時だと思ってるの？" },
+    { "en": "She didn't realize he was joking.", "ja": "彼女は彼が冗談を言っているとは気づかなかった。" }
   ]
 }
