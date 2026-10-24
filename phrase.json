@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-23",
-  "phrase": "I just realized I'm late.",
-  "reading": "アイ ジャスト リアライズド アイム レイト",
-  "meaning": "今、遅刻してるって気づいた。",
-  "word": "realize",
+  "date": "2026-10-24",
+  "phrase": "You look absolutely fabulous!",
+  "reading": "ユー ルック アブソルートリー ファビュラス",
+  "meaning": "あなた、最高に素敵よ！",
+  "word": "fabulous",
   "source": "Emily in Paris",
-  "note": "ふと気づいた瞬間に使う。just を入れると「今まさに」の感じが出る。",
+  "note": "相手の見た目や出来を大げさに褒める口語。華やかで少し芝居がかったノリの時に。",
   "examples": [
-    { "en": "I just realized I forgot my keys.", "ja": "鍵を忘れたことに今気づいた。" },
-    { "en": "Do you realize how late it is?", "ja": "今何時だと思ってるの？" },
-    { "en": "She didn't realize he was joking.", "ja": "彼女は彼が冗談を言っているとは気づかなかった。" }
+    { "en": "You look absolutely fabulous!", "ja": "あなた、最高に素敵よ！" },
+    { "en": "The party was fabulous, thank you.", "ja": "パーティー最高だった、ありがとう。" },
+    { "en": "That's a fabulous idea, let's do it.", "ja": "それ素晴らしいアイデア、やろう。" }
   ]
 }
