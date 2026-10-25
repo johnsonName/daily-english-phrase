@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-24",
-  "phrase": "You look absolutely fabulous!",
-  "reading": "ユー ルック アブソルートリー ファビュラス",
-  "meaning": "あなた、最高に素敵よ！",
-  "word": "fabulous",
+  "date": "2026-10-25",
+  "phrase": "We're right on track.",
+  "reading": "ウィア ライト オン トラック",
+  "meaning": "私たち、予定どおり順調だよ。",
+  "word": "on track",
   "source": "Emily in Paris",
-  "note": "相手の見た目や出来を大げさに褒める口語。華やかで少し芝居がかったノリの時に。",
+  "note": "進捗が計画どおりと伝える定番表現。right を入れると「ちょうど」順調の強調に。仕事で便利。",
   "examples": [
-    { "en": "You look absolutely fabulous!", "ja": "あなた、最高に素敵よ！" },
-    { "en": "The party was fabulous, thank you.", "ja": "パーティー最高だった、ありがとう。" },
-    { "en": "That's a fabulous idea, let's do it.", "ja": "それ素晴らしいアイデア、やろう。" }
+    { "en": "Don't worry, we're still on track for Friday.", "ja": "心配しないで、金曜には間に合う予定だよ。" },
+    { "en": "Are we on track to finish by noon?", "ja": "正午までに終わりそう？" },
+    { "en": "I'm trying to stay on track with my diet.", "ja": "ダイエットを順調に続けようとしてるんだ。" }
   ]
 }
