@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-25",
-  "phrase": "We're right on track.",
-  "reading": "ウィア ライト オン トラック",
-  "meaning": "私たち、予定どおり順調だよ。",
-  "word": "on track",
+  "date": "2026-10-26",
+  "phrase": "I can't afford that right now.",
+  "reading": "アイ キャント アフォード ザット ライト ナウ",
+  "meaning": "今はそれ、買う余裕ないんだよね。",
+  "word": "afford",
   "source": "Emily in Paris",
-  "note": "進捗が計画どおりと伝える定番表現。right を入れると「ちょうど」順調の強調に。仕事で便利。",
+  "note": "お金だけでなく時間にも使える。can't afford to ~ で「~している余裕はない」。",
   "examples": [
-    { "en": "Don't worry, we're still on track for Friday.", "ja": "心配しないで、金曜には間に合う予定だよ。" },
-    { "en": "Are we on track to finish by noon?", "ja": "正午までに終わりそう？" },
-    { "en": "I'm trying to stay on track with my diet.", "ja": "ダイエットを順調に続けようとしてるんだ。" }
+    { "en": "We can't afford to wait any longer.", "ja": "これ以上待っている余裕はないよ。" },
+    { "en": "Can you afford a place in Paris?", "ja": "パリに住まいを構える余裕ある？" },
+    { "en": "I can barely afford coffee these days.", "ja": "最近はコーヒー代すらきついんだ。" }
   ]
 }
