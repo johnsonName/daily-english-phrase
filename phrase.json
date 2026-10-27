@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-26",
-  "phrase": "I can't afford that right now.",
-  "reading": "アイ キャント アフォード ザット ライト ナウ",
-  "meaning": "今はそれ、買う余裕ないんだよね。",
-  "word": "afford",
+  "date": "2026-10-27",
+  "phrase": "Let's do this instead.",
+  "reading": "レッツ ドゥー ディス インステッド",
+  "meaning": "代わりにこれをやろうよ。",
+  "word": "instead",
   "source": "Emily in Paris",
-  "note": "お金だけでなく時間にも使える。can't afford to ~ で「~している余裕はない」。",
+  "note": "案を差し替える時の定番。「それじゃなくてこっちにしよう」と軽く提案する、前向きで気さくな言い方。",
   "examples": [
-    { "en": "We can't afford to wait any longer.", "ja": "これ以上待っている余裕はないよ。" },
-    { "en": "Can you afford a place in Paris?", "ja": "パリに住まいを構える余裕ある？" },
-    { "en": "I can barely afford coffee these days.", "ja": "最近はコーヒー代すらきついんだ。" }
+    { "en": "Let's do this instead.", "ja": "代わりにこれをやろうよ。" },
+    { "en": "I'll take the stairs instead.", "ja": "代わりに階段で行くよ。" },
+    { "en": "Why not call him instead?", "ja": "代わりに彼に電話したら？" }
   ]
 }
