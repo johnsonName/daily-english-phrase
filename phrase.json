@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-27",
-  "phrase": "Let's do this instead.",
-  "reading": "レッツ ドゥー ディス インステッド",
-  "meaning": "代わりにこれをやろうよ。",
-  "word": "instead",
-  "source": "Emily in Paris",
-  "note": "案を差し替える時の定番。「それじゃなくてこっちにしよう」と軽く提案する、前向きで気さくな言い方。",
+  "date": "2026-10-28",
+  "phrase": "Oh, we do? Since when?",
+  "reading": "オー ウィー ドゥー？ シンス ウェン？",
+  "meaning": "えっ、そうなの？ いつから？",
+  "word": "Oh, we do?",
+  "source": "Gossip Girl",
+  "note": "相手の発言に軽く驚き・皮肉をにじませて返す一言。語尾を上げて、少し挑発的に言うのがGossip Girl風。",
   "examples": [
-    { "en": "Let's do this instead.", "ja": "代わりにこれをやろうよ。" },
-    { "en": "I'll take the stairs instead.", "ja": "代わりに階段で行くよ。" },
-    { "en": "Why not call him instead?", "ja": "代わりに彼に電話したら？" }
+    { "en": "Oh, we do? Since when?", "ja": "えっ、そうなの？ いつから？" },
+    { "en": "We have a deal, remember? Oh, we do?", "ja": "取引したでしょ？ へえ、そうだったっけ？" },
+    { "en": "Oh, we do? Nobody told me.", "ja": "そうなの？ 誰も教えてくれなかったよ。" }
   ]
 }
