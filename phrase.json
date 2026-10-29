@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-28",
-  "phrase": "Oh, we do? Since when?",
-  "reading": "オー ウィー ドゥー？ シンス ウェン？",
-  "meaning": "えっ、そうなの？ いつから？",
-  "word": "Oh, we do?",
-  "source": "Gossip Girl",
-  "note": "相手の発言に軽く驚き・皮肉をにじませて返す一言。語尾を上げて、少し挑発的に言うのがGossip Girl風。",
+  "date": "2026-10-29",
+  "phrase": "I can't guarantee anything, okay?",
+  "reading": "アイ キャント ギャランティー エニシング、オーケー？",
+  "meaning": "何も保証はできないからね、いい？",
+  "word": "guarantee",
+  "source": "Emily in Paris",
+  "note": "期待されすぎないよう予防線を張る一言。okay? を付けると少し突き放した、でも親しい口調に。",
   "examples": [
-    { "en": "Oh, we do? Since when?", "ja": "えっ、そうなの？ いつから？" },
-    { "en": "We have a deal, remember? Oh, we do?", "ja": "取引したでしょ？ へえ、そうだったっけ？" },
-    { "en": "Oh, we do? Nobody told me.", "ja": "そうなの？ 誰も教えてくれなかったよ。" }
+    { "en": "I can't guarantee he'll show up.", "ja": "彼が来るかは保証できないよ。" },
+    { "en": "Is this guaranteed to work?", "ja": "これ、確実にうまくいくの？" },
+    { "en": "I guarantee you'll love it.", "ja": "絶対気に入るって保証するよ。" }
   ]
 }
