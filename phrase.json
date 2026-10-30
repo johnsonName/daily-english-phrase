@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-29",
-  "phrase": "I can't guarantee anything, okay?",
-  "reading": "アイ キャント ギャランティー エニシング、オーケー？",
-  "meaning": "何も保証はできないからね、いい？",
-  "word": "guarantee",
+  "date": "2026-10-30",
+  "phrase": "You're out late. Everything okay?",
+  "reading": "ユア アウト レイト。エブリシング オーケー？",
+  "meaning": "今日は遅いんだね。大丈夫？",
+  "word": "You're out late",
   "source": "Emily in Paris",
-  "note": "期待されすぎないよう予防線を張る一言。okay? を付けると少し突き放した、でも親しい口調に。",
+  "note": "いつもより遅い帰りや夜の外出に気づいた時の一言。責める感じはなく、軽い気遣いや探りに使える。",
   "examples": [
-    { "en": "I can't guarantee he'll show up.", "ja": "彼が来るかは保証できないよ。" },
-    { "en": "Is this guaranteed to work?", "ja": "これ、確実にうまくいくの？" },
-    { "en": "I guarantee you'll love it.", "ja": "絶対気に入るって保証するよ。" }
+    { "en": "You're out late. Did the meeting run over?", "ja": "遅いね。会議が長引いたの？" },
+    { "en": "Wow, you're out late tonight.", "ja": "わあ、今夜は遅くまで出てるね。" },
+    { "en": "You're out late for a school night.", "ja": "明日学校なのに遅くまで出てるね。" }
   ]
 }
