@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-30",
-  "phrase": "You're out late. Everything okay?",
-  "reading": "ユア アウト レイト。エブリシング オーケー？",
-  "meaning": "今日は遅いんだね。大丈夫？",
-  "word": "You're out late",
-  "source": "Emily in Paris",
-  "note": "いつもより遅い帰りや夜の外出に気づいた時の一言。責める感じはなく、軽い気遣いや探りに使える。",
+  "date": "2026-10-31",
+  "phrase": "I'm definitely not going alone.",
+  "reading": "アイム デフィニットリー ノット ゴーイング アローン",
+  "meaning": "私、絶対に一人では行かないからね。",
+  "word": "definitely",
+  "source": "Gossip Girl",
+  "note": "definitelyは「絶対に」を強く言い切る副詞。否定文でも肯定文でも使え、断固とした気持ちを軽く示せる。",
   "examples": [
-    { "en": "You're out late. Did the meeting run over?", "ja": "遅いね。会議が長引いたの？" },
-    { "en": "Wow, you're out late tonight.", "ja": "わあ、今夜は遅くまで出てるね。" },
-    { "en": "You're out late for a school night.", "ja": "明日学校なのに遅くまで出てるね。" }
+    {
+      "en": "Are you coming tonight? Definitely.",
+      "ja": "今夜来る？もちろん。"
+    },
+    {
+      "en": "That is definitely not what I said.",
+      "ja": "私が言ったのは絶対にそうじゃない。"
+    },
+    {
+      "en": "She's definitely hiding something.",
+      "ja": "彼女、絶対何か隠してる。"
+    }
   ]
 }
