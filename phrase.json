@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-01",
-  "phrase": "Don't look at me, I'm not to blame.",
-  "reading": "ドントルックアットミー、アイム ノット トゥ ブレイム",
-  "meaning": "私を見ないで、私のせいじゃないから。",
-  "word": "blame",
+  "date": "2026-11-02",
+  "phrase": "I don't give a damn what they think.",
+  "reading": "アイ ドント ギヴ ア ダム ワット ゼイ シンク",
+  "meaning": "他人がどう思おうと、私は気にしない。",
+  "word": "give a damn about",
   "source": "Emily in Paris",
-  "note": "be to blame は「〜に責任がある」。責められそうな場面で軽く身の潔白を主張する、ちょっとおどけた言い方。",
+  "note": "「気にしない」を強く言う口語。否定形で使うのが基本。親しい間柄向けでやや荒い表現。",
   "examples": [
-    { "en": "Don't blame me, I just work here.", "ja": "私のせいにしないで、ただの従業員なんだから。" },
-    { "en": "Who's to blame for this mess?", "ja": "この散らかりようは誰のせい？" },
-    { "en": "I blame the jet lag, honestly.", "ja": "正直、時差ボケのせいだと思う。" }
+    { "en": "Nobody here gives a damn about your title.", "ja": "ここじゃ誰もあなたの肩書きなんか気にしてないよ。" },
+    { "en": "Do you even give a damn about her?", "ja": "そもそも彼女のこと、少しでも気にかけてるの？" },
+    { "en": "I stopped giving a damn years ago.", "ja": "何年も前に気にするのをやめたの。" }
   ]
 }
