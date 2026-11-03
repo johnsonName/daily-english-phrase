@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-02",
-  "phrase": "I don't give a damn what they think.",
-  "reading": "アイ ドント ギヴ ア ダム ワット ゼイ シンク",
-  "meaning": "他人がどう思おうと、私は気にしない。",
-  "word": "give a damn about",
+  "date": "2026-11-03",
+  "phrase": "Honestly, that's your biggest strength.",
+  "reading": "オネストリー、ザッツ ユア ビゲスト ストレングス",
+  "meaning": "正直、それがあなたの一番の強みだよ。",
+  "word": "strength",
   "source": "Emily in Paris",
-  "note": "「気にしない」を強く言う口語。否定形で使うのが基本。親しい間柄向けでやや荒い表現。",
+  "note": "相手を励ます・褒めるときの自然な一言。Honestly を付けると本音感が出る。",
   "examples": [
-    { "en": "Nobody here gives a damn about your title.", "ja": "ここじゃ誰もあなたの肩書きなんか気にしてないよ。" },
-    { "en": "Do you even give a damn about her?", "ja": "そもそも彼女のこと、少しでも気にかけてるの？" },
-    { "en": "I stopped giving a damn years ago.", "ja": "何年も前に気にするのをやめたの。" }
+    { "en": "Staying calm is your biggest strength.", "ja": "冷静でいられることが君の一番の強みだよ。" },
+    { "en": "What's your greatest strength at work?", "ja": "仕事での一番の強みは何ですか？" },
+    { "en": "Don't hide it. Use that strength.", "ja": "隠さないで。その強みを使いなよ。" }
   ]
 }
