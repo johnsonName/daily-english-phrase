@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-03",
-  "phrase": "Honestly, that's your biggest strength.",
-  "reading": "オネストリー、ザッツ ユア ビゲスト ストレングス",
-  "meaning": "正直、それがあなたの一番の強みだよ。",
-  "word": "strength",
+  "date": "2026-11-04",
+  "phrase": "Just savor the moment.",
+  "reading": "ジャスト セイバー ザ モーメント",
+  "meaning": "今この瞬間をじっくり味わって。",
+  "word": "savor",
   "source": "Emily in Paris",
-  "note": "相手を励ます・褒めるときの自然な一言。Honestly を付けると本音感が出る。",
+  "note": "料理だけでなく、幸せな時間や成功の余韻を噛みしめる時に使う。励ましや軽い助言で自然。",
   "examples": [
-    { "en": "Staying calm is your biggest strength.", "ja": "冷静でいられることが君の一番の強みだよ。" },
-    { "en": "What's your greatest strength at work?", "ja": "仕事での一番の強みは何ですか？" },
-    { "en": "Don't hide it. Use that strength.", "ja": "隠さないで。その強みを使いなよ。" }
+    { "en": "Take a sip and savor it.", "ja": "一口飲んで、じっくり味わってみて。" },
+    { "en": "I want to savor every bite of this.", "ja": "これ、ひと口ひと口堪能したいの。" },
+    { "en": "You earned it, so savor the win.", "ja": "頑張ったんだから、勝利を噛みしめなよ。" }
   ]
 }
