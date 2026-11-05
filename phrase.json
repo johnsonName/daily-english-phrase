@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-04",
-  "phrase": "Just savor the moment.",
-  "reading": "ジャスト セイバー ザ モーメント",
-  "meaning": "今この瞬間をじっくり味わって。",
-  "word": "savor",
+  "date": "2026-11-05",
+  "phrase": "Who put you in command?",
+  "reading": "フー プット ユー イン コマンド",
+  "meaning": "誰があなたに仕切れって言ったの？",
+  "word": "command",
   "source": "Emily in Paris",
-  "note": "料理だけでなく、幸せな時間や成功の余韻を噛みしめる時に使う。励ましや軽い助言で自然。",
+  "note": "偉そうに仕切る相手への皮肉。in command は「指揮を執って」。冗談めかしても使える。",
   "examples": [
-    { "en": "Take a sip and savor it.", "ja": "一口飲んで、じっくり味わってみて。" },
-    { "en": "I want to savor every bite of this.", "ja": "これ、ひと口ひと口堪能したいの。" },
-    { "en": "You earned it, so savor the win.", "ja": "頑張ったんだから、勝利を噛みしめなよ。" }
+    { "en": "Who put you in command of the party?", "ja": "いつからパーティーの仕切り役になったの？" },
+    { "en": "She's clearly in command of the room.", "ja": "彼女は明らかにその場を掌握している。" },
+    { "en": "I don't take commands from you.", "ja": "あなたの指図は受けないわ。" }
   ]
 }
