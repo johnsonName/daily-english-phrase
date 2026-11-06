@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-05",
-  "phrase": "Who put you in command?",
-  "reading": "フー プット ユー イン コマンド",
-  "meaning": "誰があなたに仕切れって言ったの？",
-  "word": "command",
+  "date": "2026-11-06",
+  "phrase": "I'm so embarrassed right now.",
+  "reading": "アイム ソー インバラスト ライト ナウ",
+  "meaning": "今、めちゃくちゃ恥ずかしい。",
+  "word": "embarrassed",
   "source": "Emily in Paris",
-  "note": "偉そうに仕切る相手への皮肉。in command は「指揮を執って」。冗談めかしても使える。",
+  "note": "失敗や気まずい場面で素直に口にする定番表現。so を付けると感情が強まり、会話らしくなる。",
   "examples": [
-    { "en": "Who put you in command of the party?", "ja": "いつからパーティーの仕切り役になったの？" },
-    { "en": "She's clearly in command of the room.", "ja": "彼女は明らかにその場を掌握している。" },
-    { "en": "I don't take commands from you.", "ja": "あなたの指図は受けないわ。" }
+    { "en": "I was so embarrassed when I forgot her name.", "ja": "彼女の名前を忘れて、すごく恥ずかしかった。" },
+    { "en": "Don't be embarrassed, everyone makes mistakes.", "ja": "恥ずかしがらないで、誰だって間違えるよ。" },
+    { "en": "She looked embarrassed after tripping on stage.", "ja": "彼女はステージでつまずいて恥ずかしそうだった。" }
   ]
 }
