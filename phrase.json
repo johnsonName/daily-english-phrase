@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-06",
-  "phrase": "I'm so embarrassed right now.",
-  "reading": "アイム ソー インバラスト ライト ナウ",
-  "meaning": "今、めちゃくちゃ恥ずかしい。",
-  "word": "embarrassed",
+  "date": "2026-11-07",
+  "phrase": "We ended up staying until midnight.",
+  "reading": "ウィー エンデッド アップ ステイイング アンティル ミッドナイト",
+  "meaning": "結局、夜中まで残ることになったよ。",
+  "word": "ended up",
   "source": "Emily in Paris",
-  "note": "失敗や気まずい場面で素直に口にする定番表現。so を付けると感情が強まり、会話らしくなる。",
+  "note": "計画外の結果を「気づけば〜になってた」と振り返る口語表現。後ろは動名詞(-ing)が基本。",
   "examples": [
-    { "en": "I was so embarrassed when I forgot her name.", "ja": "彼女の名前を忘れて、すごく恥ずかしかった。" },
-    { "en": "Don't be embarrassed, everyone makes mistakes.", "ja": "恥ずかしがらないで、誰だって間違えるよ。" },
-    { "en": "She looked embarrassed after tripping on stage.", "ja": "彼女はステージでつまずいて恥ずかしそうだった。" }
+    { "en": "I ended up buying the whole set.", "ja": "結局セットを丸ごと買っちゃった。" },
+    { "en": "We got lost and ended up in Montmartre.", "ja": "道に迷って、結局モンマルトルに着いたの。" },
+    { "en": "How did you end up working here?", "ja": "どうしてここで働くことになったの？" }
   ]
 }
