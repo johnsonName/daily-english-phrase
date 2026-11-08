@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-07",
-  "phrase": "We ended up staying until midnight.",
-  "reading": "ウィー エンデッド アップ ステイイング アンティル ミッドナイト",
-  "meaning": "結局、夜中まで残ることになったよ。",
-  "word": "ended up",
-  "source": "Emily in Paris",
-  "note": "計画外の結果を「気づけば〜になってた」と振り返る口語表現。後ろは動名詞(-ing)が基本。",
+  "date": "2026-11-08",
+  "phrase": "You'll ruin your reputation.",
+  "reading": "ユール ルーイン ヨア レピュテイション",
+  "meaning": "評判が台無しになるよ。",
+  "word": "reputation",
+  "source": "Gossip Girl",
+  "note": "名声や評判を気にする場面で使う定番。ruin/protect/build a reputationの形でよく出る。",
   "examples": [
-    { "en": "I ended up buying the whole set.", "ja": "結局セットを丸ごと買っちゃった。" },
-    { "en": "We got lost and ended up in Montmartre.", "ja": "道に迷って、結局モンマルトルに着いたの。" },
-    { "en": "How did you end up working here?", "ja": "どうしてここで働くことになったの？" }
+    { "en": "She has a reputation for being late.", "ja": "彼女は遅刻魔で有名なの。" },
+    { "en": "Do you know what that does to my reputation?", "ja": "それが私の評判にどう響くか分かってる？" },
+    { "en": "He's trying to protect his reputation.", "ja": "彼は自分の評判を守ろうとしてる。" }
   ]
 }
