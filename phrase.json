@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-08",
-  "phrase": "You'll ruin your reputation.",
-  "reading": "ユール ルーイン ヨア レピュテイション",
-  "meaning": "評判が台無しになるよ。",
-  "word": "reputation",
-  "source": "Gossip Girl",
-  "note": "名声や評判を気にする場面で使う定番。ruin/protect/build a reputationの形でよく出る。",
+  "date": "2026-11-09",
+  "phrase": "Honestly, me either.",
+  "reading": "オネストリー、ミー イーザー",
+  "meaning": "正直、私も（そうじゃない）。",
+  "word": "me either",
+  "source": "Emily in Paris",
+  "note": "否定文への「私も〜ない」。口語ではMe neitherより me either がよく使われる。",
   "examples": [
-    { "en": "She has a reputation for being late.", "ja": "彼女は遅刻魔で有名なの。" },
-    { "en": "Do you know what that does to my reputation?", "ja": "それが私の評判にどう響くか分かってる？" },
-    { "en": "He's trying to protect his reputation.", "ja": "彼は自分の評判を守ろうとしてる。" }
+    { "en": "I don't want to go. — Me either.", "ja": "行きたくない。— 私も。" },
+    { "en": "I haven't slept at all. — Honestly, me either.", "ja": "全然寝てない。— 正直、私も。" },
+    { "en": "He can't cook. — Me either!", "ja": "彼は料理ができない。— 私もだよ！" }
   ]
 }
