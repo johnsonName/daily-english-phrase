@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-09",
-  "phrase": "Honestly, me either.",
-  "reading": "オネストリー、ミー イーザー",
-  "meaning": "正直、私も（そうじゃない）。",
-  "word": "me either",
-  "source": "Emily in Paris",
-  "note": "否定文への「私も〜ない」。口語ではMe neitherより me either がよく使われる。",
+  "date": "2026-11-10",
+  "phrase": "Make sure this reaches her tonight.",
+  "reading": "メイク シュア ディス リーチズ ハー トゥナイト",
+  "meaning": "今夜中に必ずこれを彼女に届けて。",
+  "word": "reach",
+  "source": "Gossip Girl",
+  "note": "reachは「（物・知らせが）相手に届く」。秘密の手紙や噂を確実に届けたい時に。",
   "examples": [
-    { "en": "I don't want to go. — Me either.", "ja": "行きたくない。— 私も。" },
-    { "en": "I haven't slept at all. — Honestly, me either.", "ja": "全然寝てない。— 正直、私も。" },
-    { "en": "He can't cook. — Me either!", "ja": "彼は料理ができない。— 私もだよ！" }
+    { "en": "Did my message ever reach him?", "ja": "私のメッセージ、ちゃんと彼に届いた？" },
+    { "en": "This can't reach Blair before the party.", "ja": "これはパーティー前にブレアの耳に入っちゃダメ。" },
+    { "en": "The invitation should reach you by Friday.", "ja": "招待状は金曜までに届くはずよ。" }
   ]
 }
