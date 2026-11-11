@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-10",
-  "phrase": "Make sure this reaches her tonight.",
-  "reading": "メイク シュア ディス リーチズ ハー トゥナイト",
-  "meaning": "今夜中に必ずこれを彼女に届けて。",
-  "word": "reach",
-  "source": "Gossip Girl",
-  "note": "reachは「（物・知らせが）相手に届く」。秘密の手紙や噂を確実に届けたい時に。",
+  "date": "2026-11-11",
+  "phrase": "He's the heir to the whole empire.",
+  "reading": "ヒーズ ジ エア トゥ ザ ホール エンパイア",
+  "meaning": "彼はあの一大帝国の後継者なのよ。",
+  "word": "heir",
+  "source": "Emily in Paris",
+  "note": "heirは「後継者・跡取り」。hは発音せず「エア」。名家やブランドの跡継ぎを噂する時に。",
   "examples": [
-    { "en": "Did my message ever reach him?", "ja": "私のメッセージ、ちゃんと彼に届いた？" },
-    { "en": "This can't reach Blair before the party.", "ja": "これはパーティー前にブレアの耳に入っちゃダメ。" },
-    { "en": "The invitation should reach you by Friday.", "ja": "招待状は金曜までに届くはずよ。" }
+    { "en": "Wait, he's the heir to a champagne house?", "ja": "待って、彼ってシャンパンメゾンの跡取りなの？" },
+    { "en": "She's the sole heir to the family fortune.", "ja": "彼女は一族の財産の唯一の相続人よ。" },
+    { "en": "Nobody wants to be the heir to that mess.", "ja": "あんな厄介ごとの後継者になりたい人なんていない。" }
   ]
 }
