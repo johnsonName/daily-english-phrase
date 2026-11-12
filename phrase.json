@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-11",
-  "phrase": "He's the heir to the whole empire.",
-  "reading": "ヒーズ ジ エア トゥ ザ ホール エンパイア",
-  "meaning": "彼はあの一大帝国の後継者なのよ。",
-  "word": "heir",
+  "date": "2026-11-12",
+  "phrase": "No, please, after you. I insist.",
+  "reading": "ノウ、プリーズ、アフター・ユー。アイ・インシスト。",
+  "meaning": "いえいえ、どうぞお先に。ぜひ。",
+  "word": "I insist",
   "source": "Emily in Paris",
-  "note": "heirは「後継者・跡取り」。hは発音せず「エア」。名家やブランドの跡継ぎを噂する時に。",
+  "note": "譲り合いや遠慮する相手に「いいから、ぜひ」と押す一言。笑顔で言えば上品で感じがいい。",
   "examples": [
-    { "en": "Wait, he's the heir to a champagne house?", "ja": "待って、彼ってシャンパンメゾンの跡取りなの？" },
-    { "en": "She's the sole heir to the family fortune.", "ja": "彼女は一族の財産の唯一の相続人よ。" },
-    { "en": "Nobody wants to be the heir to that mess.", "ja": "あんな厄介ごとの後継者になりたい人なんていない。" }
+    { "en": "Go ahead, take the last croissant. I insist.", "ja": "最後のクロワッサンどうぞ。遠慮しないで。" },
+    { "en": "Dinner's on me tonight. I insist.", "ja": "今夜は私のおごり。いいから、ね。" },
+    { "en": "You first, really. I insist.", "ja": "本当にお先にどうぞ。ぜひ。" }
   ]
 }
