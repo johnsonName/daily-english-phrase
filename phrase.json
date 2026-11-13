@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-12",
-  "phrase": "No, please, after you. I insist.",
-  "reading": "ノウ、プリーズ、アフター・ユー。アイ・インシスト。",
-  "meaning": "いえいえ、どうぞお先に。ぜひ。",
-  "word": "I insist",
+  "date": "2026-11-13",
+  "phrase": "Wait, you got promoted? Since when?",
+  "reading": "ウェイト、ユー・ガット・プロモーティッド？シンス・ウェン？",
+  "meaning": "待って、昇進したの？いつの間に？",
+  "word": "promote",
   "source": "Emily in Paris",
-  "note": "譲り合いや遠慮する相手に「いいから、ぜひ」と押す一言。笑顔で言えば上品で感じがいい。",
+  "note": "get promotedで「昇進する」。驚き混じりに祝う定番の返し。宣伝の意味でpromote the brandとも使う。",
   "examples": [
-    { "en": "Go ahead, take the last croissant. I insist.", "ja": "最後のクロワッサンどうぞ。遠慮しないで。" },
-    { "en": "Dinner's on me tonight. I insist.", "ja": "今夜は私のおごり。いいから、ね。" },
-    { "en": "You first, really. I insist.", "ja": "本当にお先にどうぞ。ぜひ。" }
+    { "en": "She got promoted to senior manager last week.", "ja": "彼女、先週シニアマネージャーに昇進したの。" },
+    { "en": "We need influencers to promote the launch.", "ja": "ローンチを宣伝するのにインフルエンサーが必要よ。" },
+    { "en": "Congrats! You totally deserve to be promoted.", "ja": "おめでとう！昇進して当然だよ。" }
   ]
 }
