@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-13",
-  "phrase": "Wait, you got promoted? Since when?",
-  "reading": "ウェイト、ユー・ガット・プロモーティッド？シンス・ウェン？",
-  "meaning": "待って、昇進したの？いつの間に？",
-  "word": "promote",
+  "date": "2026-11-14",
+  "phrase": "Ugh, you're so annoying sometimes.",
+  "reading": "アグ、ユア・ソー・アノイイング・サムタイムズ",
+  "meaning": "もう、ときどきほんと面倒なんだから。",
+  "word": "annoy",
   "source": "Emily in Paris",
-  "note": "get promotedで「昇進する」。驚き混じりに祝う定番の返し。宣伝の意味でpromote the brandとも使う。",
+  "note": "annoyingで「面倒な・うざい」。親しい相手に半分冗談で言うことも多い。人が主語ならI'm annoyed。",
   "examples": [
-    { "en": "She got promoted to senior manager last week.", "ja": "彼女、先週シニアマネージャーに昇進したの。" },
-    { "en": "We need influencers to promote the launch.", "ja": "ローンチを宣伝するのにインフルエンサーが必要よ。" },
-    { "en": "Congrats! You totally deserve to be promoted.", "ja": "おめでとう！昇進して当然だよ。" }
+    { "en": "Okay, that's actually really annoying.", "ja": "ねえ、それほんとに面倒なんだけど。" },
+    { "en": "Is he annoying you again?", "ja": "またあいつにうざがらみされてるの？" },
+    { "en": "I'm not mad, just a little annoyed.", "ja": "怒ってないよ、ちょっとイラッとしただけ。" }
   ]
 }
