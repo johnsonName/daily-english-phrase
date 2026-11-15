@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-14",
-  "phrase": "Ugh, you're so annoying sometimes.",
-  "reading": "アグ、ユア・ソー・アノイイング・サムタイムズ",
-  "meaning": "もう、ときどきほんと面倒なんだから。",
-  "word": "annoy",
+  "date": "2026-11-15",
+  "phrase": "Oh, just wait till you see it.",
+  "reading": "オウ、ジャスト・ウェイト・ティル・ユー・シー・イット",
+  "meaning": "ねえ、見るまで待ってて（見たら驚くよ）。",
+  "word": "till",
   "source": "Emily in Paris",
-  "note": "annoyingで「面倒な・うざい」。親しい相手に半分冗談で言うことも多い。人が主語ならI'm annoyed。",
+  "note": "tillはuntilのくだけた形で「〜まで」。wait till〜は「〜したら驚くよ」と期待を煽る定番表現。",
   "examples": [
-    { "en": "Okay, that's actually really annoying.", "ja": "ねえ、それほんとに面倒なんだけど。" },
-    { "en": "Is he annoying you again?", "ja": "またあいつにうざがらみされてるの？" },
-    { "en": "I'm not mad, just a little annoyed.", "ja": "怒ってないよ、ちょっとイラッとしただけ。" }
+    { "en": "I'll be at the office till eight tonight.", "ja": "今夜は8時までオフィスにいるよ。" },
+    { "en": "Don't open it till I get there!", "ja": "私が着くまで開けないでよ！" },
+    { "en": "Wait till Sylvie hears about this.", "ja": "これをシルヴィーが聞いたらどうなるか。" }
   ]
 }
