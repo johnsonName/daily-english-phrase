@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-15",
-  "phrase": "Oh, just wait till you see it.",
-  "reading": "オウ、ジャスト・ウェイト・ティル・ユー・シー・イット",
-  "meaning": "ねえ、見るまで待ってて（見たら驚くよ）。",
-  "word": "till",
+  "date": "2026-11-16",
+  "phrase": "Oh, stop teasing me. I'm serious!",
+  "reading": "オウ、ストップ ティーズィング ミー。アイム シリアス！",
+  "meaning": "もう、からかわないでよ。本気なんだから！",
+  "word": "tease",
   "source": "Emily in Paris",
-  "note": "tillはuntilのくだけた形で「〜まで」。wait till〜は「〜したら驚くよ」と期待を煽る定番表現。",
+  "note": "友達や同僚に冷やかされた時に笑いながら返す定番。軽いじゃれ合いのトーンで、本気で怒っている感じは出ない。",
   "examples": [
-    { "en": "I'll be at the office till eight tonight.", "ja": "今夜は8時までオフィスにいるよ。" },
-    { "en": "Don't open it till I get there!", "ja": "私が着くまで開けないでよ！" },
-    { "en": "Wait till Sylvie hears about this.", "ja": "これをシルヴィーが聞いたらどうなるか。" }
+    { "en": "You're just teasing me, right?", "ja": "からかってるだけでしょ？" },
+    { "en": "I'm only teasing! Don't take it so seriously.", "ja": "冗談だってば！そんな真に受けないで。" },
+    { "en": "Everyone teased me about my beret all day.", "ja": "一日中みんなにベレー帽をいじられたの。" }
   ]
 }
