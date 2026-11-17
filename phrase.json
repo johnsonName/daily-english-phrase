@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-16",
-  "phrase": "Oh, stop teasing me. I'm serious!",
-  "reading": "オウ、ストップ ティーズィング ミー。アイム シリアス！",
-  "meaning": "もう、からかわないでよ。本気なんだから！",
-  "word": "tease",
+  "date": "2026-11-17",
+  "phrase": "I still need to prepare for the pitch.",
+  "reading": "アイ スティル ニード トゥ プリペア フォー ザ ピッチ",
+  "meaning": "まだプレゼンの準備をしなきゃいけないの。",
+  "word": "prepare",
   "source": "Emily in Paris",
-  "note": "友達や同僚に冷やかされた時に笑いながら返す定番。軽いじゃれ合いのトーンで、本気で怒っている感じは出ない。",
+  "note": "仕事や予定の前に「まだ準備が残ってる」と伝える定番。prepare for ~ で「~に備えて準備する」。誘いを断る口実にも便利。",
   "examples": [
-    { "en": "You're just teasing me, right?", "ja": "からかってるだけでしょ？" },
-    { "en": "I'm only teasing! Don't take it so seriously.", "ja": "冗談だってば！そんな真に受けないで。" },
-    { "en": "Everyone teased me about my beret all day.", "ja": "一日中みんなにベレー帽をいじられたの。" }
+    { "en": "Sorry, I can't tonight. I need to prepare for tomorrow.", "ja": "ごめん、今夜は無理。明日の準備しなきゃ。" },
+    { "en": "Nothing could have prepared me for Paris.", "ja": "パリがこんなだなんて、心の準備なんてできてなかった。" },
+    { "en": "Give me five minutes to prepare myself.", "ja": "心の準備に5分ちょうだい。" }
   ]
 }
