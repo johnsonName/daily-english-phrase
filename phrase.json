@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-17",
-  "phrase": "I still need to prepare for the pitch.",
-  "reading": "アイ スティル ニード トゥ プリペア フォー ザ ピッチ",
-  "meaning": "まだプレゼンの準備をしなきゃいけないの。",
-  "word": "prepare",
+  "date": "2026-11-18",
+  "phrase": "Okay, fine. If you insist.",
+  "reading": "オウケイ、ファイン。イフ ユー インシスト",
+  "meaning": "わかった、いいよ。そこまで言うなら。",
+  "word": "insist",
   "source": "Emily in Paris",
-  "note": "仕事や予定の前に「まだ準備が残ってる」と伝える定番。prepare for ~ で「~に備えて準備する」。誘いを断る口実にも便利。",
+  "note": "相手が言い張るので折れる時の定番。少し呆れ気味に、でも笑って言うとこなれた感じに。",
   "examples": [
-    { "en": "Sorry, I can't tonight. I need to prepare for tomorrow.", "ja": "ごめん、今夜は無理。明日の準備しなきゃ。" },
-    { "en": "Nothing could have prepared me for Paris.", "ja": "パリがこんなだなんて、心の準備なんてできてなかった。" },
-    { "en": "Give me five minutes to prepare myself.", "ja": "心の準備に5分ちょうだい。" }
+    { "en": "Another glass of champagne? Well, if you insist.", "ja": "シャンパンもう一杯？まあ、そこまで言うなら。" },
+    { "en": "She insisted on paying for dinner.", "ja": "彼女はディナー代を払うと言って聞かなかった。" },
+    { "en": "He keeps insisting he's fine, but he's not.", "ja": "彼は大丈夫だと言い張ってるけど、そうじゃない。" }
   ]
 }
