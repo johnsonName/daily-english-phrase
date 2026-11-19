@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-18",
-  "phrase": "Okay, fine. If you insist.",
-  "reading": "オウケイ、ファイン。イフ ユー インシスト",
-  "meaning": "わかった、いいよ。そこまで言うなら。",
-  "word": "insist",
+  "date": "2026-11-19",
+  "phrase": "I'm ready to take on Paris.",
+  "reading": "アイム・レディ・トゥ・テイク・オン・パリス",
+  "meaning": "パリに挑む準備はできてる。",
+  "word": "take on",
   "source": "Emily in Paris",
-  "note": "相手が言い張るので折れる時の定番。少し呆れ気味に、でも笑って言うとこなれた感じに。",
+  "note": "新しい仕事や困難に「受けて立つ」前向きな決意。挑戦する対象をonの後ろに置くだけでOK。",
   "examples": [
-    { "en": "Another glass of champagne? Well, if you insist.", "ja": "シャンパンもう一杯？まあ、そこまで言うなら。" },
-    { "en": "She insisted on paying for dinner.", "ja": "彼女はディナー代を払うと言って聞かなかった。" },
-    { "en": "He keeps insisting he's fine, but he's not.", "ja": "彼は大丈夫だと言い張ってるけど、そうじゃない。" }
+    { "en": "She's taking on way too much right now.", "ja": "彼女、今ちょっと抱え込みすぎだよ。" },
+    { "en": "Are you sure you want to take on this client?", "ja": "本当にこのクライアントを引き受けるの？" },
+    { "en": "I'll take on Sylvie if I have to.", "ja": "必要ならシルヴィーとだってやり合うわ。" }
   ]
 }
