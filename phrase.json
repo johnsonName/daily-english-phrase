@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-19",
-  "phrase": "I'm ready to take on Paris.",
-  "reading": "アイム・レディ・トゥ・テイク・オン・パリス",
-  "meaning": "パリに挑む準備はできてる。",
-  "word": "take on",
+  "date": "2026-11-20",
+  "phrase": "Don't be silly. It's totally fine!",
+  "reading": "ドント・ビー・シリー。イッツ・トータリー・ファイン！",
+  "meaning": "バカなこと言わないで。全然大丈夫だよ！",
+  "word": "silly",
   "source": "Emily in Paris",
-  "note": "新しい仕事や困難に「受けて立つ」前向きな決意。挑戦する対象をonの後ろに置くだけでOK。",
+  "note": "相手の遠慮や心配を軽く打ち消す定番。stupidより柔らかく、親しい相手に笑顔で使える。",
   "examples": [
-    { "en": "She's taking on way too much right now.", "ja": "彼女、今ちょっと抱え込みすぎだよ。" },
-    { "en": "Are you sure you want to take on this client?", "ja": "本当にこのクライアントを引き受けるの？" },
-    { "en": "I'll take on Sylvie if I have to.", "ja": "必要ならシルヴィーとだってやり合うわ。" }
+    { "en": "I feel so silly wearing this beret.", "ja": "このベレー帽かぶってると、なんか間抜けな気分。" },
+    { "en": "That's a silly question. Of course you can come!", "ja": "そんなの聞くまでもないよ。もちろん来ていいって！" },
+    { "en": "Stop being silly and just ask him out.", "ja": "ふざけてないで、さっさと彼をデートに誘いなよ。" }
   ]
 }
